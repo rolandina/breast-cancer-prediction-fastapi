@@ -185,7 +185,7 @@ def grade_to_differentiate(grade):
      
     return grade_to_differentiate_dict[grade]
 
-def prepare_X_pred(age, race, marital_status, tumor_size, tstage, nstage, grade, astage, estrogen_status, progesteron_status, node_examined, positive_node_rate):
+def prepare_X_pred(age, race, marital_status, tumor_size, tstage, nstage, grade, astage, estrogen_status, progesterone_status, node_examined, positive_node_rate):
     #features_range = { col: X[col].unique() if type(X[col].unique()[0])== str else [0, X[col].mean(), X[col].std()] for col in X.columns}
     X_pred = pd.DataFrame({ col : [0] for col in ['Age', 'Race', 'Marital Status', 'T Stage ', 'N Stage', '6th Stage',
        'differentiate', 'Grade', 'A Stage', 'Tumor Size', 'Estrogen Status',
@@ -201,7 +201,7 @@ def prepare_X_pred(age, race, marital_status, tumor_size, tstage, nstage, grade,
     X_pred.loc[0, "Grade"] = grade
     X_pred.loc[0, "A Stage"] = astage
     X_pred.loc[0, "Estrogen Status"] = estrogen_status
-    X_pred.loc[0, "Progesterone Status"] = progesteron_status
+    X_pred.loc[0, "Progesterone Status"] = progesterone_status
     X_pred.loc[0,"Reginol Node Positive"] = int(node_examined * (positive_node_rate/100.))
     X_pred.loc[0,'6th Stage'] = tnm_to_stage_6th(tstage, nstage)
     X_pred.loc[0,'differentiate'] = grade_to_differentiate(grade)
@@ -313,11 +313,12 @@ async def list_models():
   "pred_prob": 0.7632779676268621
 }
 """,
-    description=""" /prediction/?m=lgb1&age=43&race=White&marital_status=Married&tstage=T2&nstage=N3&grade=3&astage=Regional&estrogen_status=Positive&progesteron_status=Negative&tumor_size=30&node_examined=23&positive_node_rate=90 
+    description="""Example:
+    https://bcp-fast-api.herokuapp.com/prediction/?m=lgb1&age=45&race=White&marital_status=Divorced&tstage=T2&nstage=N3&grade=%20anaplastic%3B%20Grade%20IV&astage=Distant&estrogen_status=Positive&progesterone_status=Positive&tumor_size=33&node_examined=1&positive_node_rate=1
  Request takes multiple parameters and return prediction of survival for the patient with breast cancer.""",
 )
 
-async def prediction(m: str, age: int, race: Race, marital_status: MaritalStatus, tstage: TStage, nstage: NStage, grade: Grade, astage: AStage, estrogen_status: EstrogenStatus, progesteron_status: ProgesteroneStatus, tumor_size: int, node_examined: int, positive_node_rate: int):
+async def prediction(m: str, age: int, race: Race, marital_status: MaritalStatus, tstage: TStage, nstage: NStage, grade: Grade, astage: AStage, estrogen_status: EstrogenStatus, progesterone_status: ProgesteroneStatus, tumor_size: int, node_examined: int, positive_node_rate: int):
 
     
     #1. prepare model
@@ -351,7 +352,7 @@ async def prediction(m: str, age: int, race: Race, marital_status: MaritalStatus
     y_tr = le.fit_transform(y)
     
     # function to prepare X_pred
-    X_pred = prepare_X_pred(age, race.value, marital_status.value, tumor_size, tstage.value, nstage.value, grade.value, astage.value, estrogen_status.value, progesteron_status.value, node_examined, positive_node_rate)
+    X_pred = prepare_X_pred(age, race.value, marital_status.value, tumor_size, tstage.value, nstage.value, grade.value, astage.value, estrogen_status.value, progesterone_status.value, node_examined, positive_node_rate)
     print(X_pred)
     
     #3. transform X_pred
@@ -377,7 +378,7 @@ async def prediction(m: str, age: int, race: Race, marital_status: MaritalStatus
     params = [age, race.value, marital_status.value, 
           tstage.value, nstage.value, sixth_stage, 
           differentiate, grade.value, astage.value, 
-          tumor_size, estrogen_status.value, progesteron_status.value, 
+          tumor_size, estrogen_status.value, progesterone_status.value, 
           node_examined, node_positive]
 
     params2 = params+params
