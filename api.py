@@ -1,9 +1,16 @@
 from fastapi import FastAPI, Path, HTTPException
 import psycopg2
 from decouple import config
-import json
 import pandas as pd
 import pickle
+import lightgbm as lgb
+#import uvicorn
+
+#python modules no need to list in requirements!
+import json
+import os
+from enum import Enum
+
 
 #preprocessing and model selection
 from sklearn.impute import SimpleImputer
@@ -21,14 +28,9 @@ from sklearn.neural_network import MLPClassifier
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
-import lightgbm as lgb
 
 
-#import uvicorn
-#import os
 
-#from titanic.model import Model
-from enum import Enum
 
 class Race(Enum):
     white = "White"
