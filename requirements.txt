@@ -1,9 +1,8 @@
-fastapi
-uvicorn
-pandas
-psycopg2
+fastapi==0.82.0
+uvicorn==0.18.3
+pandas==1.4.2
+psycopg2==2.9.3
 decouple
 pickle-mixin
-sklearn
-lightgbm
-enum
+scikit-learn==1.1.1
+lightgbm==3.3.2
