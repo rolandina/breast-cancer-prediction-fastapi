@@ -81,12 +81,12 @@ class ProgesteroneStatus(str, Enum):
     negative = "Negative"
 
 # load environment variables
-DB_URL = config("DB_URL")
+DATABASE_URL = os.environ.get('DATABASE_URL')
 
 ### open connection with db
 def open_db_connection():
     try:
-        connection = psycopg2.connect(DB_URL, sslmode='require')
+        connection = psycopg2.connect(DATABASE_URL, sslmode='require')
         cursor = connection.cursor()
         return connection, cursor
 
