@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+psycopg2
+decouple
+pickle
+sklearn
+lightgbm
+enum
