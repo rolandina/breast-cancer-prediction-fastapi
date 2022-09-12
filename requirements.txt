@@ -2,7 +2,7 @@ fastapi==0.82.0
 uvicorn==0.18.3
 pandas==1.4.2
 psycopg2==2.9.3
-decouple
-pickle-mixin
+python-decouple==3.6
+pickle-mixin==1.0.2
 scikit-learn==1.1.1
 lightgbm==3.3.2
