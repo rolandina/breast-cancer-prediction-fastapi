@@ -6,6 +6,27 @@ import pickle
 import lightgbm as lgb
 #import uvicorn
 
+# --------------------------
+from fastapi.middleware.cors import CORSMiddleware
+
+app = FastAPI(title="Breast Cancer")
+
+# origins = [
+#     "http://localhost.tiangolo.com",
+#     "https://localhost.tiangolo.com",
+#     "http://localhost",
+#     "http://localhost:8080",
+# ]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+# --------------------------------------
+
 #python modules no need to list in requirements!
 import json
 import os
@@ -260,7 +281,7 @@ def X_transformer(df, X_to_transform):
 
 
 
-app = FastAPI(title="Breast Cancer")
+
 
 
 
