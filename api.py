@@ -345,7 +345,7 @@ async def prediction(m: str, age: int, race: Race, marital_status: MaritalStatus
     #1. prepare model
     # fetch model binary file from db
     get_model_query = """SELECT pickle_file FROM "public.models" WHERE short_name=%s;"""
-    file = fetch_query(get_model_query, [m])[0][0]
+    file = fetch_query(get_model_query, [m])[0]
     model = pickle.loads(file)
 
     #2. prepare X_pred
