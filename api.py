@@ -125,7 +125,7 @@ def close_db_connection(conn, cur):
     else:
         print("There were no connection established")
 
-def fetch_query(query, params=[0]):
+def fetch_query(query, params=[]):
     (conn, cur) = open_db_connection()
 
     print(f"Execute query: {query}")
@@ -141,7 +141,7 @@ def fetch_query(query, params=[0]):
     
     return fetch_data
 
-def commit_query(query, params=[0]):
+def commit_query(query, params=[]):
     (conn, cur) = open_db_connection()
 
     print(f"Execute query: {query}")
@@ -303,21 +303,17 @@ async def info():
 
 ### get the list of models from data base (not all columns)
 
-@app.get("/list_models/",
+@app.get("/model_info/",
     response_description ="""{
-        "rfb1": {'name': "Random Forest", 'test_score': 0.93, 'balanced': 'yes', 'time_created': '06/09/2022' },
-        "rf": {'name': "Random Forest", 'test_score': 0.87, 'balanced': 'no', 'time_created': '06/09/2022'},
+        "rfcb1": {'name': "Random Forest", 'test_score': 0.93, 'balanced_data': 'yes', 'time_created': '06/09/2022' }
 }""",
-    description="""Get request without parameters return dictionary of models presented in database and ready to use
-    to make prediction""",
+    description="""Get request without parameters return dictionary with the parameters of the model used for predictions""",
 )
-async def list_models():
+async def model_info():
 
-    get_models_query = """SELECT DISTINCT short_name, info FROM "public.models";"""
-    models = fetch_query(get_models_query)
-
-    response = { model[0]: {'description': model[1]} for model in models}
-
+    get_model_query = """SELECT short_name, info, time_created FROM "public.models" WHERE short_name=%s;"""
+    model_info = fetch_query(get_model_query, ["rfcb1"])[0]
+    response = {"id": model_info[0], "info": model_info[1], "created": model_info[2].strftime("%m/%d/%Y %H:%M:%S") }
 
     #3 transform the list to dict
     #m = Model()
@@ -335,17 +331,17 @@ async def list_models():
 }
 """,
     description="""Example:
-    https://bcp-fast-api.herokuapp.com/prediction/?m=lgb1&age=45&race=White&marital_status=Divorced&tstage=T2&nstage=N3&grade=%20anaplastic%3B%20Grade%20IV&astage=Distant&estrogen_status=Positive&progesterone_status=Positive&tumor_size=33&node_examined=1&positive_node_rate=1
+    https://bcp-fast-api.herokuapp.com/prediction/?age=45&race=White&marital_status=Divorced&tstage=T2&nstage=N3&grade=%20anaplastic%3B%20Grade%20IV&astage=Distant&estrogen_status=Positive&progesterone_status=Positive&tumor_size=33&node_examined=1&positive_node_rate=1
  Request takes multiple parameters and return prediction of survival for the patient with breast cancer.""",
 )
 
-async def prediction(m: str, age: int, race: Race, marital_status: MaritalStatus, tstage: TStage, nstage: NStage, grade: Grade, astage: AStage, estrogen_status: EstrogenStatus, progesterone_status: ProgesteroneStatus, tumor_size: int, node_examined: int, positive_node_rate: int):
-
+async def prediction(age: int, race: Race, marital_status: MaritalStatus, tstage: TStage, nstage: NStage, grade: Grade, astage: AStage, estrogen_status: EstrogenStatus, progesterone_status: ProgesteroneStatus, tumor_size: int, node_examined: int, positive_node_rate: int):
+    m = 'rfcb1' #define model to use for prediction! 
     
     #1. prepare model
     # fetch model binary file from db
     get_model_query = """SELECT pickle_file FROM "public.models" WHERE short_name=%s;"""
-    file = fetch_query(get_model_query, [m])[0]
+    file = fetch_query(get_model_query, [m])[0][0]
     model = pickle.loads(file)
 
     #2. prepare X_pred
