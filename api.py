@@ -4,7 +4,7 @@ from decouple import config
 import pandas as pd
 import pickle
 import lightgbm as lgb
-#import uvicorn
+# import uvicorn
 
 # --------------------------
 from fastapi.middleware.cors import CORSMiddleware
@@ -208,7 +208,7 @@ def grade_to_differentiate(grade):
 
 def prepare_X_pred(age, race, marital_status, tumor_size, tstage, nstage, grade, astage, estrogen_status, progesterone_status, node_examined, positive_node_rate):
     #features_range = { col: X[col].unique() if type(X[col].unique()[0])== str else [0, X[col].mean(), X[col].std()] for col in X.columns}
-    X_pred = pd.DataFrame({ col : [0] for col in ['Age', 'Race', 'Marital Status', 'T Stage ', 'N Stage', '6th Stage',
+    X_pred = pd.DataFrame({ col : [] for col in ['Age', 'Race', 'Marital Status', 'T Stage ', 'N Stage', '6th Stage',
        'differentiate', 'Grade', 'A Stage', 'Tumor Size', 'Estrogen Status',
        'Progesterone Status', 'Regional Node Examined',
        'Reginol Node Positive']})
@@ -468,4 +468,4 @@ async def get_dataset():
 
 
 # if __name__=='__main__':
-#     uvicorn.run("api:app", host="0.0.0.0", port = port, reload=False)
+#     uvicorn.run("api:app", host="0.0.0.0", reload=False)
