@@ -1,0 +1,6 @@
+artifact_location: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/696915852219574581
+creation_time: 1686773404577
+experiment_id: '696915852219574581'
+last_update_time: 1686773404577
+lifecycle_stage: active
+name: LGB grid_search_experiment (not balanced data)

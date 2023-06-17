@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/33c546b37dc94e1580c9f7bf5198c710/artifacts
+end_time: 1686773391535
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: 33c546b37dc94e1580c9f7bf5198c710
+run_name: youthful-robin-705
+run_uuid: 33c546b37dc94e1580c9f7bf5198c710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773391520
+status: 3
+tags: []
+user_id: smirnova

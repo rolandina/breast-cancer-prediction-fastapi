@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/2e72fc804d174c4eab6e15d3e31ae15e/artifacts
+deleted_time: 1686773809842
+end_time: 1686773361920
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 2e72fc804d174c4eab6e15d3e31ae15e
+run_name: rare-grub-141
+run_uuid: 2e72fc804d174c4eab6e15d3e31ae15e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361907
+status: 3
+tags: []
+user_id: smirnova

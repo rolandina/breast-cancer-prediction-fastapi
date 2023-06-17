@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/306591190888339239/5bf5cbc3d5af4367b660f23f185581b2/artifacts
+end_time: 1686773536190
+entry_point_name: ''
+experiment_id: '306591190888339239'
+lifecycle_stage: active
+run_id: 5bf5cbc3d5af4367b660f23f185581b2
+run_name: burly-kite-976
+run_uuid: 5bf5cbc3d5af4367b660f23f185581b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773536159
+status: 3
+tags: []
+user_id: smirnova

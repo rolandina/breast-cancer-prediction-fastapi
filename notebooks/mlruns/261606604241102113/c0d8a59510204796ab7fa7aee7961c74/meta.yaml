@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/c0d8a59510204796ab7fa7aee7961c74/artifacts
+deleted_time: 1686773809882
+end_time: 1686773361723
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: c0d8a59510204796ab7fa7aee7961c74
+run_name: zealous-fox-783
+run_uuid: c0d8a59510204796ab7fa7aee7961c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361711
+status: 3
+tags: []
+user_id: smirnova

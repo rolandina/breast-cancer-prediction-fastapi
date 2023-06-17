@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/696915852219574581/8e4779112e6047df9fa38fbff10dbb39/artifacts
+end_time: 1686773415040
+entry_point_name: ''
+experiment_id: '696915852219574581'
+lifecycle_stage: active
+run_id: 8e4779112e6047df9fa38fbff10dbb39
+run_name: gaudy-tern-733
+run_uuid: 8e4779112e6047df9fa38fbff10dbb39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773415032
+status: 3
+tags: []
+user_id: smirnova

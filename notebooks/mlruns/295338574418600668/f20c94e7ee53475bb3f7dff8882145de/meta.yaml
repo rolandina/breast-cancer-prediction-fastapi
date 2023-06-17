@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/295338574418600668/f20c94e7ee53475bb3f7dff8882145de/artifacts
+end_time: 1686773402463
+entry_point_name: ''
+experiment_id: '295338574418600668'
+lifecycle_stage: active
+run_id: f20c94e7ee53475bb3f7dff8882145de
+run_name: gifted-hawk-487
+run_uuid: f20c94e7ee53475bb3f7dff8882145de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773402455
+status: 3
+tags: []
+user_id: smirnova

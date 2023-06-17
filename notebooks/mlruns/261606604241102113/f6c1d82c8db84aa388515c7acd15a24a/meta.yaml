@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/f6c1d82c8db84aa388515c7acd15a24a/artifacts
+deleted_time: 1686773809887
+end_time: 1686773361692
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: f6c1d82c8db84aa388515c7acd15a24a
+run_name: luminous-mole-76
+run_uuid: f6c1d82c8db84aa388515c7acd15a24a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361679
+status: 3
+tags: []
+user_id: smirnova

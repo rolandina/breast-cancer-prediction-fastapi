@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/362799942662703764/595ad8f9975a46bb8455a2e1ee555304/artifacts
+end_time: 1686773627996
+entry_point_name: ''
+experiment_id: '362799942662703764'
+lifecycle_stage: active
+run_id: 595ad8f9975a46bb8455a2e1ee555304
+run_name: wistful-calf-106
+run_uuid: 595ad8f9975a46bb8455a2e1ee555304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773627985
+status: 3
+tags: []
+user_id: smirnova

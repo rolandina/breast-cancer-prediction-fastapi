@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/362799942662703764/c62b2d26206e443db987715c2d826da5/artifacts
+end_time: 1686773628220
+entry_point_name: ''
+experiment_id: '362799942662703764'
+lifecycle_stage: active
+run_id: c62b2d26206e443db987715c2d826da5
+run_name: glamorous-fly-877
+run_uuid: c62b2d26206e443db987715c2d826da5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773628209
+status: 3
+tags: []
+user_id: smirnova

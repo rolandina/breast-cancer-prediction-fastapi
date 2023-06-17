@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/295338574418600668/fe2afa9fecfa47af9b8fb68879da03a1/artifacts
+end_time: 1686773402567
+entry_point_name: ''
+experiment_id: '295338574418600668'
+lifecycle_stage: active
+run_id: fe2afa9fecfa47af9b8fb68879da03a1
+run_name: thundering-shrew-3
+run_uuid: fe2afa9fecfa47af9b8fb68879da03a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773402554
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/362799942662703764/7894851cd8124892aadf10e1b96f3941/artifacts
+end_time: 1686773628611
+entry_point_name: ''
+experiment_id: '362799942662703764'
+lifecycle_stage: active
+run_id: 7894851cd8124892aadf10e1b96f3941
+run_name: capricious-conch-843
+run_uuid: 7894851cd8124892aadf10e1b96f3941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773628587
+status: 3
+tags: []
+user_id: smirnova

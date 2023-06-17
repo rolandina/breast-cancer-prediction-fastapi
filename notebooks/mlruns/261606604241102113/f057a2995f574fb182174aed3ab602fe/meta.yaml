@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/f057a2995f574fb182174aed3ab602fe/artifacts
+end_time: 1686773391841
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: f057a2995f574fb182174aed3ab602fe
+run_name: monumental-gull-675
+run_uuid: f057a2995f574fb182174aed3ab602fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773391821
+status: 3
+tags: []
+user_id: smirnova

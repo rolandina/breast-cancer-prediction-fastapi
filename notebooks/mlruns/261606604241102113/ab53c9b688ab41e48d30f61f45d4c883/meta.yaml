@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/ab53c9b688ab41e48d30f61f45d4c883/artifacts
+end_time: 1686773361280
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: ab53c9b688ab41e48d30f61f45d4c883
+run_name: bouncy-ram-86
+run_uuid: ab53c9b688ab41e48d30f61f45d4c883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361263
+status: 3
+tags: []
+user_id: smirnova

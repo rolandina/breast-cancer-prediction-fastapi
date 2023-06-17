@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/696915852219574581/61a025eea01b4bd68ca9c6594f276f8b/artifacts
+end_time: 1686773416934
+entry_point_name: ''
+experiment_id: '696915852219574581'
+lifecycle_stage: active
+run_id: 61a025eea01b4bd68ca9c6594f276f8b
+run_name: rebellious-wolf-311
+run_uuid: 61a025eea01b4bd68ca9c6594f276f8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773404581
+status: 3
+tags: []
+user_id: smirnova

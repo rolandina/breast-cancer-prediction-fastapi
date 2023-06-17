@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/edf33e2719dd4f418cf88fec014443b6/artifacts
+deleted_time: 1686773809928
+end_time: 1686773361437
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: edf33e2719dd4f418cf88fec014443b6
+run_name: secretive-quail-556
+run_uuid: edf33e2719dd4f418cf88fec014443b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361420
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/b8b24e1ffd724516bd64272250e5903d/artifacts
+deleted_time: 1686773809861
+end_time: 1686773361826
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: b8b24e1ffd724516bd64272250e5903d
+run_name: mysterious-goose-349
+run_uuid: b8b24e1ffd724516bd64272250e5903d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361814
+status: 3
+tags: []
+user_id: smirnova

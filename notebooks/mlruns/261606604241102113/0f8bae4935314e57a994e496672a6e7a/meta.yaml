@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/0f8bae4935314e57a994e496672a6e7a/artifacts
+end_time: 1686773361152
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: 0f8bae4935314e57a994e496672a6e7a
+run_name: blushing-grouse-595
+run_uuid: 0f8bae4935314e57a994e496672a6e7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361138
+status: 3
+tags: []
+user_id: smirnova

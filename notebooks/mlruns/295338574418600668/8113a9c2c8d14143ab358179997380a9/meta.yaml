@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/295338574418600668/8113a9c2c8d14143ab358179997380a9/artifacts
+end_time: 1686773402386
+entry_point_name: ''
+experiment_id: '295338574418600668'
+lifecycle_stage: active
+run_id: 8113a9c2c8d14143ab358179997380a9
+run_name: righteous-fly-146
+run_uuid: 8113a9c2c8d14143ab358179997380a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773402377
+status: 3
+tags: []
+user_id: smirnova

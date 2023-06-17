@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/95a108fc219140f8ad37a2a9f51f4465/artifacts
+deleted_time: 1686773809951
+end_time: 1686773361334
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 95a108fc219140f8ad37a2a9f51f4465
+run_name: gifted-colt-553
+run_uuid: 95a108fc219140f8ad37a2a9f51f4465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361319
+status: 3
+tags: []
+user_id: smirnova

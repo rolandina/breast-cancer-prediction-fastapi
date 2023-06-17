@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/2f10d225d146443a8d7fe6f99c0089cd/artifacts
+deleted_time: 1686773809829
+end_time: 1686773362021
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 2f10d225d146443a8d7fe6f99c0089cd
+run_name: fortunate-shad-738
+run_uuid: 2f10d225d146443a8d7fe6f99c0089cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773362006
+status: 3
+tags: []
+user_id: smirnova

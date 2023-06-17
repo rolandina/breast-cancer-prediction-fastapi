@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/19d0ded1a2664cc4950b55143d6136f8/artifacts
+end_time: 1686773391064
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: 19d0ded1a2664cc4950b55143d6136f8
+run_name: shivering-frog-804
+run_uuid: 19d0ded1a2664cc4950b55143d6136f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773391053
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/eac4b2e202744c1daba6b3a136f3aa07/artifacts
+end_time: 1686773361204
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: eac4b2e202744c1daba6b3a136f3aa07
+run_name: loud-worm-694
+run_uuid: eac4b2e202744c1daba6b3a136f3aa07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361191
+status: 3
+tags: []
+user_id: smirnova

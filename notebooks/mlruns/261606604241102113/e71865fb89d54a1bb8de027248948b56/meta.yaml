@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/e71865fb89d54a1bb8de027248948b56/artifacts
+deleted_time: 1686773809904
+end_time: 1686773361593
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: e71865fb89d54a1bb8de027248948b56
+run_name: resilient-fish-579
+run_uuid: e71865fb89d54a1bb8de027248948b56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361574
+status: 3
+tags: []
+user_id: smirnova

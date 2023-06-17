@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/4cb6e907c72c47339e6aa0374aa748f8/artifacts
+end_time: 1686773391015
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: 4cb6e907c72c47339e6aa0374aa748f8
+run_name: amazing-frog-943
+run_uuid: 4cb6e907c72c47339e6aa0374aa748f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773391005
+status: 3
+tags: []
+user_id: smirnova

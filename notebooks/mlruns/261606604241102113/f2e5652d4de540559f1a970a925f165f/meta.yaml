@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/f2e5652d4de540559f1a970a925f165f/artifacts
+deleted_time: 1686773809924
+end_time: 1686773361458
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: f2e5652d4de540559f1a970a925f165f
+run_name: whimsical-hawk-768
+run_uuid: f2e5652d4de540559f1a970a925f165f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361441
+status: 3
+tags: []
+user_id: smirnova

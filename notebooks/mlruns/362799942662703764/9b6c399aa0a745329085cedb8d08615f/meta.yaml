@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/362799942662703764/9b6c399aa0a745329085cedb8d08615f/artifacts
+end_time: 1686773628451
+entry_point_name: ''
+experiment_id: '362799942662703764'
+lifecycle_stage: active
+run_id: 9b6c399aa0a745329085cedb8d08615f
+run_name: rebellious-gull-633
+run_uuid: 9b6c399aa0a745329085cedb8d08615f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773628438
+status: 3
+tags: []
+user_id: smirnova

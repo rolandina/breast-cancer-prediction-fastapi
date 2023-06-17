@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/abdab60e945440398d66254563ce72dc/artifacts
+end_time: 1686773391720
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: abdab60e945440398d66254563ce72dc
+run_name: receptive-hare-569
+run_uuid: abdab60e945440398d66254563ce72dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773391708
+status: 3
+tags: []
+user_id: smirnova

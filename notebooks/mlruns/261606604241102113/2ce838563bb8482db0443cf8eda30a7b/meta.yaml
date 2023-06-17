@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/2ce838563bb8482db0443cf8eda30a7b/artifacts
+deleted_time: 1686773809833
+end_time: 1686773361987
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 2ce838563bb8482db0443cf8eda30a7b
+run_name: angry-stork-670
+run_uuid: 2ce838563bb8482db0443cf8eda30a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361975
+status: 3
+tags: []
+user_id: smirnova

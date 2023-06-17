@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/362799942662703764/a6c90af5403341bb8af35cc4c9507e0f/artifacts
+end_time: 1686773628419
+entry_point_name: ''
+experiment_id: '362799942662703764'
+lifecycle_stage: active
+run_id: a6c90af5403341bb8af35cc4c9507e0f
+run_name: bald-deer-680
+run_uuid: a6c90af5403341bb8af35cc4c9507e0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773628406
+status: 3
+tags: []
+user_id: smirnova

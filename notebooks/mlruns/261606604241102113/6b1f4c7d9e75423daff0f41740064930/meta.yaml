@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/6b1f4c7d9e75423daff0f41740064930/artifacts
+deleted_time: 1686773809921
+end_time: 1686773361479
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 6b1f4c7d9e75423daff0f41740064930
+run_name: nervous-tern-553
+run_uuid: 6b1f4c7d9e75423daff0f41740064930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361462
+status: 3
+tags: []
+user_id: smirnova

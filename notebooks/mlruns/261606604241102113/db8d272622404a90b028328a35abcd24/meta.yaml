@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/db8d272622404a90b028328a35abcd24/artifacts
+deleted_time: 1686773809911
+end_time: 1686773361549
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: db8d272622404a90b028328a35abcd24
+run_name: valuable-stork-272
+run_uuid: db8d272622404a90b028328a35abcd24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361527
+status: 3
+tags: []
+user_id: smirnova

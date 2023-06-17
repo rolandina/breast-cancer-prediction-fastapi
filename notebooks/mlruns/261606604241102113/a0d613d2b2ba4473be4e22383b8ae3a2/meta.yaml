@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/a0d613d2b2ba4473be4e22383b8ae3a2/artifacts
+deleted_time: 1686773809948
+end_time: 1686773361349
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: a0d613d2b2ba4473be4e22383b8ae3a2
+run_name: marvelous-gull-827
+run_uuid: a0d613d2b2ba4473be4e22383b8ae3a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361337
+status: 3
+tags: []
+user_id: smirnova

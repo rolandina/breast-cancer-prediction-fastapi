@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/362799942662703764/f5159851b568406593971bb61da01adb/artifacts
+end_time: 1686773628125
+entry_point_name: ''
+experiment_id: '362799942662703764'
+lifecycle_stage: active
+run_id: f5159851b568406593971bb61da01adb
+run_name: bold-quail-822
+run_uuid: f5159851b568406593971bb61da01adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773628115
+status: 3
+tags: []
+user_id: smirnova

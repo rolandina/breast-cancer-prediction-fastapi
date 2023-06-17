@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/362799942662703764/b2558e21e6eb49d1bff229d6e32d8b99/artifacts
+end_time: 1686773628296
+entry_point_name: ''
+experiment_id: '362799942662703764'
+lifecycle_stage: active
+run_id: b2558e21e6eb49d1bff229d6e32d8b99
+run_name: enthused-squid-760
+run_uuid: b2558e21e6eb49d1bff229d6e32d8b99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773628283
+status: 3
+tags: []
+user_id: smirnova

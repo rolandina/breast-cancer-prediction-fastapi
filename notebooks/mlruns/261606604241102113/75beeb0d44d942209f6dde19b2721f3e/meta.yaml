@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/75beeb0d44d942209f6dde19b2721f3e/artifacts
+deleted_time: 1686773809917
+end_time: 1686773361500
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 75beeb0d44d942209f6dde19b2721f3e
+run_name: unleashed-fly-106
+run_uuid: 75beeb0d44d942209f6dde19b2721f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361483
+status: 3
+tags: []
+user_id: smirnova

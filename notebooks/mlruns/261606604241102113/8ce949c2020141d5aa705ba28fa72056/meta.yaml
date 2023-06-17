@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/8ce949c2020141d5aa705ba28fa72056/artifacts
+end_time: 1686773391501
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: 8ce949c2020141d5aa705ba28fa72056
+run_name: traveling-hen-666
+run_uuid: 8ce949c2020141d5aa705ba28fa72056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773391487
+status: 3
+tags: []
+user_id: smirnova

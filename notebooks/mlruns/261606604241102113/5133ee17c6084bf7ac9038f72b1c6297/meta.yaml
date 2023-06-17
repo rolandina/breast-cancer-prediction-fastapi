@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/5133ee17c6084bf7ac9038f72b1c6297/artifacts
+end_time: 1686773390932
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: 5133ee17c6084bf7ac9038f72b1c6297
+run_name: skittish-crane-318
+run_uuid: 5133ee17c6084bf7ac9038f72b1c6297
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773390914
+status: 3
+tags: []
+user_id: smirnova

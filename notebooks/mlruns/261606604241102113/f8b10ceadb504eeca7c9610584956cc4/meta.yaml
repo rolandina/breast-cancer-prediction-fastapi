@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/f8b10ceadb504eeca7c9610584956cc4/artifacts
+deleted_time: 1686773809914
+end_time: 1686773361522
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: f8b10ceadb504eeca7c9610584956cc4
+run_name: nervous-trout-824
+run_uuid: f8b10ceadb504eeca7c9610584956cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361504
+status: 3
+tags: []
+user_id: smirnova

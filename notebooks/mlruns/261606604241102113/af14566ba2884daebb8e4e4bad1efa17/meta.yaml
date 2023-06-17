@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/af14566ba2884daebb8e4e4bad1efa17/artifacts
+end_time: 1686773390991
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: af14566ba2884daebb8e4e4bad1efa17
+run_name: treasured-goat-225
+run_uuid: af14566ba2884daebb8e4e4bad1efa17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773390980
+status: 3
+tags: []
+user_id: smirnova

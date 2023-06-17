@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/a48bd498ef2c4f6ca1c575979abc9265/artifacts
+deleted_time: 1686773809935
+end_time: 1686773361403
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: a48bd498ef2c4f6ca1c575979abc9265
+run_name: fearless-snail-689
+run_uuid: a48bd498ef2c4f6ca1c575979abc9265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361391
+status: 3
+tags: []
+user_id: smirnova

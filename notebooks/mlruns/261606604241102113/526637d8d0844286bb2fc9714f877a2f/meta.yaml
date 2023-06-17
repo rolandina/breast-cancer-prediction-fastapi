@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/526637d8d0844286bb2fc9714f877a2f/artifacts
+deleted_time: 1686773809864
+end_time: 1686773361811
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 526637d8d0844286bb2fc9714f877a2f
+run_name: sneaky-bear-391
+run_uuid: 526637d8d0844286bb2fc9714f877a2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361800
+status: 3
+tags: []
+user_id: smirnova

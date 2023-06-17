@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/920574338900205903/1bdfa46d557a449c8954842eb46fed2e/artifacts
+end_time: 1686773541171
+entry_point_name: ''
+experiment_id: '920574338900205903'
+lifecycle_stage: active
+run_id: 1bdfa46d557a449c8954842eb46fed2e
+run_name: delightful-crab-390
+run_uuid: 1bdfa46d557a449c8954842eb46fed2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773541153
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/007b1451a37742088801ed414d518d88/artifacts
+deleted_time: 1686773809938
+end_time: 1686773361389
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 007b1451a37742088801ed414d518d88
+run_name: adventurous-cub-136
+run_uuid: 007b1451a37742088801ed414d518d88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361377
+status: 3
+tags: []
+user_id: smirnova

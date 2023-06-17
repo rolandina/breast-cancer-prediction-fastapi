@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/362799942662703764/38de5085766d467ca475de2220c47375/artifacts
+end_time: 1686773628021
+entry_point_name: ''
+experiment_id: '362799942662703764'
+lifecycle_stage: active
+run_id: 38de5085766d467ca475de2220c47375
+run_name: abrasive-pig-684
+run_uuid: 38de5085766d467ca475de2220c47375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773628010
+status: 3
+tags: []
+user_id: smirnova

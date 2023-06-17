@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/2ff79129ee2a4663a701ebe9bed04761/artifacts
+deleted_time: 1686773809889
+end_time: 1686773361677
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 2ff79129ee2a4663a701ebe9bed04761
+run_name: exultant-ox-652
+run_uuid: 2ff79129ee2a4663a701ebe9bed04761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361664
+status: 3
+tags: []
+user_id: smirnova

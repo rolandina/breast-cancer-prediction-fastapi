@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/920574338900205903/ce7ffc39e92e44139012a0c818acba2a/artifacts
+end_time: 1686773543901
+entry_point_name: ''
+experiment_id: '920574338900205903'
+lifecycle_stage: active
+run_id: ce7ffc39e92e44139012a0c818acba2a
+run_name: stately-grouse-839
+run_uuid: ce7ffc39e92e44139012a0c818acba2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773539608
+status: 3
+tags: []
+user_id: smirnova

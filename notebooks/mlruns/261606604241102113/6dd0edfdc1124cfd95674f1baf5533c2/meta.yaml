@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/6dd0edfdc1124cfd95674f1baf5533c2/artifacts
+deleted_time: 1686773809879
+end_time: 1686773361738
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 6dd0edfdc1124cfd95674f1baf5533c2
+run_name: sedate-snipe-830
+run_uuid: 6dd0edfdc1124cfd95674f1baf5533c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361726
+status: 3
+tags: []
+user_id: smirnova

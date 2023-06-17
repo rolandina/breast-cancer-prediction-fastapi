@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/e6b1c419973e431693a5137b40734e69/artifacts
+deleted_time: 1686773809942
+end_time: 1686773361375
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: e6b1c419973e431693a5137b40734e69
+run_name: wistful-wolf-443
+run_uuid: e6b1c419973e431693a5137b40734e69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361364
+status: 3
+tags: []
+user_id: smirnova

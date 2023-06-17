@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/c123c50719594e048f1b5eba524f786b/artifacts
+deleted_time: 1686773809856
+end_time: 1686773361854
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: c123c50719594e048f1b5eba524f786b
+run_name: able-jay-449
+run_uuid: c123c50719594e048f1b5eba524f786b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361841
+status: 3
+tags: []
+user_id: smirnova

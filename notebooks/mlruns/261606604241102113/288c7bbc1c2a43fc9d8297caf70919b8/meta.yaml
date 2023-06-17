@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/288c7bbc1c2a43fc9d8297caf70919b8/artifacts
+end_time: 1686773391550
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: 288c7bbc1c2a43fc9d8297caf70919b8
+run_name: painted-skunk-471
+run_uuid: 288c7bbc1c2a43fc9d8297caf70919b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773391537
+status: 3
+tags: []
+user_id: smirnova

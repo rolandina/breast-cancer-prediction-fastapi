@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/295338574418600668/4610351763114b6386ad914d714ed349/artifacts
+end_time: 1686773402453
+entry_point_name: ''
+experiment_id: '295338574418600668'
+lifecycle_stage: active
+run_id: 4610351763114b6386ad914d714ed349
+run_name: gifted-gnat-992
+run_uuid: 4610351763114b6386ad914d714ed349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773402444
+status: 3
+tags: []
+user_id: smirnova

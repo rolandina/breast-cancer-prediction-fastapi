@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/920574338900205903/03318fb9feff487ba446c140bf12aae9/artifacts
+end_time: 1686773541067
+entry_point_name: ''
+experiment_id: '920574338900205903'
+lifecycle_stage: active
+run_id: 03318fb9feff487ba446c140bf12aae9
+run_name: glamorous-wolf-798
+run_uuid: 03318fb9feff487ba446c140bf12aae9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773541046
+status: 3
+tags: []
+user_id: smirnova

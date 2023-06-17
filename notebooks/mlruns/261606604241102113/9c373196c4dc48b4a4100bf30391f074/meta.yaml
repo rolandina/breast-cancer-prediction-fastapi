@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/9c373196c4dc48b4a4100bf30391f074/artifacts
+end_time: 1686773391003
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: 9c373196c4dc48b4a4100bf30391f074
+run_name: exultant-mare-307
+run_uuid: 9c373196c4dc48b4a4100bf30391f074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773390993
+status: 3
+tags: []
+user_id: smirnova

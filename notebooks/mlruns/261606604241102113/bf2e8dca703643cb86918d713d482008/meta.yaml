@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/bf2e8dca703643cb86918d713d482008/artifacts
+deleted_time: 1686773787935
+end_time: 1686773362090
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: bf2e8dca703643cb86918d713d482008
+run_name: caring-snail-642
+run_uuid: bf2e8dca703643cb86918d713d482008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773357312
+status: 3
+tags: []
+user_id: smirnova

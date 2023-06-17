@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/312ae3941a1d443080a8829fbc5c7231/artifacts
+deleted_time: 1686773809851
+end_time: 1686773361888
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 312ae3941a1d443080a8829fbc5c7231
+run_name: able-rook-87
+run_uuid: 312ae3941a1d443080a8829fbc5c7231
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361874
+status: 3
+tags: []
+user_id: smirnova

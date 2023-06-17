@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/295338574418600668/2d32f070e4a2439584e255b0ace8ba3b/artifacts
+end_time: 1686773402419
+entry_point_name: ''
+experiment_id: '295338574418600668'
+lifecycle_stage: active
+run_id: 2d32f070e4a2439584e255b0ace8ba3b
+run_name: rare-crow-900
+run_uuid: 2d32f070e4a2439584e255b0ace8ba3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773402410
+status: 3
+tags: []
+user_id: smirnova

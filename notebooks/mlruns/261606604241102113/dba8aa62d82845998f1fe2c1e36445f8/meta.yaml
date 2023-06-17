@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/dba8aa62d82845998f1fe2c1e36445f8/artifacts
+end_time: 1686773391139
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: active
+run_id: dba8aa62d82845998f1fe2c1e36445f8
+run_name: angry-goat-22
+run_uuid: dba8aa62d82845998f1fe2c1e36445f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773391124
+status: 3
+tags: []
+user_id: smirnova

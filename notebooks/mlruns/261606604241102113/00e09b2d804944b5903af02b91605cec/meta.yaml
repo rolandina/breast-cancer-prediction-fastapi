@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/00e09b2d804944b5903af02b91605cec/artifacts
+deleted_time: 1686773809872
+end_time: 1686773361768
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 00e09b2d804944b5903af02b91605cec
+run_name: omniscient-asp-855
+run_uuid: 00e09b2d804944b5903af02b91605cec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686773361756
+status: 3
+tags: []
+user_id: smirnova
