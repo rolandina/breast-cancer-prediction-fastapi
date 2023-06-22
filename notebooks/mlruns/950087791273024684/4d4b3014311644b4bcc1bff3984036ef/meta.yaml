@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024684/4d4b3014311644b4bcc1bff3984036ef/artifacts
+end_time: 1687470876061
+entry_point_name: ''
+experiment_id: '950087791273024684'
+lifecycle_stage: active
+run_id: 4d4b3014311644b4bcc1bff3984036ef
+run_name: capricious-gull-288
+run_uuid: 4d4b3014311644b4bcc1bff3984036ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470842692
+status: 3
+tags: []
+user_id: smirnova

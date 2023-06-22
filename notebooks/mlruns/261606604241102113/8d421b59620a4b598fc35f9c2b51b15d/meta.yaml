@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/8d421b59620a4b598fc35f9c2b51b15d/artifacts
+deleted_time: 1687472358938
+end_time: 1687472166440
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 8d421b59620a4b598fc35f9c2b51b15d
+run_name: intrigued-moose-430
+run_uuid: 8d421b59620a4b598fc35f9c2b51b15d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472166415
+status: 3
+tags: []
+user_id: smirnova

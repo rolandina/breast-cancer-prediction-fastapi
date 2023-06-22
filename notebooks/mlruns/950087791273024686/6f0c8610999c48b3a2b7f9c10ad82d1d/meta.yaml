@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/6f0c8610999c48b3a2b7f9c10ad82d1d/artifacts
+end_time: 1687470886243
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 6f0c8610999c48b3a2b7f9c10ad82d1d
+run_name: popular-robin-362
+run_uuid: 6f0c8610999c48b3a2b7f9c10ad82d1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886206
+status: 3
+tags: []
+user_id: smirnova

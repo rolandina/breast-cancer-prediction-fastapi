@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024685/3873ba53f6374e0f818e6231c95acf07/artifacts
+end_time: 1687470876314
+entry_point_name: ''
+experiment_id: '950087791273024685'
+lifecycle_stage: active
+run_id: 3873ba53f6374e0f818e6231c95acf07
+run_name: skittish-moose-409
+run_uuid: 3873ba53f6374e0f818e6231c95acf07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470876287
+status: 3
+tags: []
+user_id: smirnova

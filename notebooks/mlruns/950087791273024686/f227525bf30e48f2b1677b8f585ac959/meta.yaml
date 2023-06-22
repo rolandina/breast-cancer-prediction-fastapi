@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/f227525bf30e48f2b1677b8f585ac959/artifacts
+end_time: 1687470887609
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: f227525bf30e48f2b1677b8f585ac959
+run_name: able-smelt-998
+run_uuid: f227525bf30e48f2b1677b8f585ac959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470887579
+status: 3
+tags: []
+user_id: smirnova

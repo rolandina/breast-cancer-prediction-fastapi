@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/bbd3f7807f0e407f8b04dfd76f4888b5/artifacts
+deleted_time: 1687472358928
+end_time: 1687472166532
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: bbd3f7807f0e407f8b04dfd76f4888b5
+run_name: welcoming-midge-168
+run_uuid: bbd3f7807f0e407f8b04dfd76f4888b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472166507
+status: 3
+tags: []
+user_id: smirnova

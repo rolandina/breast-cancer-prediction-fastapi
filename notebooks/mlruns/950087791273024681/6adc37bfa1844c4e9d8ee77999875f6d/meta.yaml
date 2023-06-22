@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/6adc37bfa1844c4e9d8ee77999875f6d/artifacts
+end_time: 1687470827757
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 6adc37bfa1844c4e9d8ee77999875f6d
+run_name: persistent-deer-752
+run_uuid: 6adc37bfa1844c4e9d8ee77999875f6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470827731
+status: 3
+tags: []
+user_id: smirnova

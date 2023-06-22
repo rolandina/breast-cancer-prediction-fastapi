@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/2ae8c862662d4f50960f5813a14f9178/artifacts
+end_time: 1687470885968
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 2ae8c862662d4f50960f5813a14f9178
+run_name: magnificent-worm-273
+run_uuid: 2ae8c862662d4f50960f5813a14f9178
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470885928
+status: 3
+tags: []
+user_id: smirnova

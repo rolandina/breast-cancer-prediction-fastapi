@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/688da1af53174a969db9b1c6a8641d66/artifacts
+end_time: 1687470827791
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 688da1af53174a969db9b1c6a8641d66
+run_name: amusing-frog-260
+run_uuid: 688da1af53174a969db9b1c6a8641d66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470827763
+status: 3
+tags: []
+user_id: smirnova

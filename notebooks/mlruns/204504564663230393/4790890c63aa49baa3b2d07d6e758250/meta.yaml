@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/204504564663230393/4790890c63aa49baa3b2d07d6e758250/artifacts
+end_time: 1687472228236
+entry_point_name: ''
+experiment_id: '204504564663230393'
+lifecycle_stage: active
+run_id: 4790890c63aa49baa3b2d07d6e758250
+run_name: welcoming-shad-317
+run_uuid: 4790890c63aa49baa3b2d07d6e758250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472226425
+status: 3
+tags: []
+user_id: smirnova

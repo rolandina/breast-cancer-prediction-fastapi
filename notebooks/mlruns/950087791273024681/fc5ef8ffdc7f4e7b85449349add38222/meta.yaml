@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/fc5ef8ffdc7f4e7b85449349add38222/artifacts
+end_time: 1687470829040
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: fc5ef8ffdc7f4e7b85449349add38222
+run_name: abundant-stag-898
+run_uuid: fc5ef8ffdc7f4e7b85449349add38222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470829015
+status: 3
+tags: []
+user_id: smirnova

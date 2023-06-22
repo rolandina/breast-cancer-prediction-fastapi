@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024684/8d64b5057898456498060f492a09b1c9/artifacts
+end_time: 1687470873498
+entry_point_name: ''
+experiment_id: '950087791273024684'
+lifecycle_stage: active
+run_id: 8d64b5057898456498060f492a09b1c9
+run_name: amazing-hog-286
+run_uuid: 8d64b5057898456498060f492a09b1c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470873454
+status: 3
+tags: []
+user_id: smirnova

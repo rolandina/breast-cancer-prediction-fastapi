@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/07f6736f3f8c4e2e93c82f0281dd2c0d/artifacts
+deleted_time: 1687472045109
+end_time: 1687461436848
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: deleted
+run_id: 07f6736f3f8c4e2e93c82f0281dd2c0d
+run_name: bedecked-koi-569
+run_uuid: 07f6736f3f8c4e2e93c82f0281dd2c0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461432566
+status: 3
+tags: []
+user_id: smirnova

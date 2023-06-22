@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/32ee1a5774be45b0a31b6b9cfb110067/artifacts
+deleted_time: 1687472462850
+end_time: 1687461470319
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: 32ee1a5774be45b0a31b6b9cfb110067
+run_name: suave-finch-319
+run_uuid: 32ee1a5774be45b0a31b6b9cfb110067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461470299
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/6cf702e322074c9489c717c7bde07501/artifacts
+end_time: 1687461433896
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: 6cf702e322074c9489c717c7bde07501
+run_name: upset-shrike-593
+run_uuid: 6cf702e322074c9489c717c7bde07501
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461433882
+status: 3
+tags: []
+user_id: smirnova

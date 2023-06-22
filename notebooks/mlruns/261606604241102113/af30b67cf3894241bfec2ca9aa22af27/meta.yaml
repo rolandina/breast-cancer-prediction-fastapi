@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/af30b67cf3894241bfec2ca9aa22af27/artifacts
+deleted_time: 1687472358924
+end_time: 1687472166562
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: af30b67cf3894241bfec2ca9aa22af27
+run_name: able-quail-373
+run_uuid: af30b67cf3894241bfec2ca9aa22af27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472166537
+status: 3
+tags: []
+user_id: smirnova

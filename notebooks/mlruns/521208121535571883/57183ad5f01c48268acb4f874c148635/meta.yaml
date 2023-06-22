@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/521208121535571883/57183ad5f01c48268acb4f874c148635/artifacts
+end_time: 1687472226404
+entry_point_name: ''
+experiment_id: '521208121535571883'
+lifecycle_stage: active
+run_id: 57183ad5f01c48268acb4f874c148635
+run_name: nosy-bass-312
+run_uuid: 57183ad5f01c48268acb4f874c148635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472200904
+status: 3
+tags: []
+user_id: smirnova

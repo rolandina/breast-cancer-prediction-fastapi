@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/d2f51ad81aa34114b3bdcbd000a60442/artifacts
+end_time: 1687470828503
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: d2f51ad81aa34114b3bdcbd000a60442
+run_name: bald-ape-511
+run_uuid: d2f51ad81aa34114b3bdcbd000a60442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470828478
+status: 3
+tags: []
+user_id: smirnova

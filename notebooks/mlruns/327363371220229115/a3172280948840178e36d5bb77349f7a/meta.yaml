@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/327363371220229115/a3172280948840178e36d5bb77349f7a/artifacts
+end_time: 1687461441343
+entry_point_name: ''
+experiment_id: '327363371220229115'
+lifecycle_stage: active
+run_id: a3172280948840178e36d5bb77349f7a
+run_name: smiling-midge-729
+run_uuid: a3172280948840178e36d5bb77349f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461441331
+status: 3
+tags: []
+user_id: smirnova

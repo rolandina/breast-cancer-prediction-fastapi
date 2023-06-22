@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/4fd1e4be5f2b48b68e65cc8ce7a8d9b2/artifacts
+end_time: 1687470887205
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 4fd1e4be5f2b48b68e65cc8ce7a8d9b2
+run_name: awesome-midge-107
+run_uuid: 4fd1e4be5f2b48b68e65cc8ce7a8d9b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470887176
+status: 3
+tags: []
+user_id: smirnova

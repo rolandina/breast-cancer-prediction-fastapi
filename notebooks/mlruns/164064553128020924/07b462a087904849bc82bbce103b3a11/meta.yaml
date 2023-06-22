@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/07b462a087904849bc82bbce103b3a11/artifacts
+deleted_time: 1687472479872
+end_time: 1687472238502
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: 07b462a087904849bc82bbce103b3a11
+run_name: charming-lark-75
+run_uuid: 07b462a087904849bc82bbce103b3a11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472238464
+status: 3
+tags: []
+user_id: smirnova

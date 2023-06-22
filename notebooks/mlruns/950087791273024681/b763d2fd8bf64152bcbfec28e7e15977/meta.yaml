@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/b763d2fd8bf64152bcbfec28e7e15977/artifacts
+end_time: 1687470827661
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: b763d2fd8bf64152bcbfec28e7e15977
+run_name: ambitious-jay-113
+run_uuid: b763d2fd8bf64152bcbfec28e7e15977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470827628
+status: 3
+tags: []
+user_id: smirnova

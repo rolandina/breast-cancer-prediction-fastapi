@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/98f13b479c1f456cb70820886a053c97/artifacts
+end_time: 1687470886316
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 98f13b479c1f456cb70820886a053c97
+run_name: resilient-kit-120
+run_uuid: 98f13b479c1f456cb70820886a053c97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886287
+status: 3
+tags: []
+user_id: smirnova

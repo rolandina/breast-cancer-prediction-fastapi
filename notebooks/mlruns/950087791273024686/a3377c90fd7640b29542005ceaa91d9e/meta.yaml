@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/a3377c90fd7640b29542005ceaa91d9e/artifacts
+end_time: 1687470886058
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: a3377c90fd7640b29542005ceaa91d9e
+run_name: languid-goose-165
+run_uuid: a3377c90fd7640b29542005ceaa91d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886022
+status: 3
+tags: []
+user_id: smirnova

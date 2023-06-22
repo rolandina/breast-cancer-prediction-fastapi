@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/454e0a4ca657409c8fd235cbb44c1471/artifacts
+deleted_time: 1687472359019
+end_time: 1687472165503
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 454e0a4ca657409c8fd235cbb44c1471
+run_name: rumbling-roo-950
+run_uuid: 454e0a4ca657409c8fd235cbb44c1471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472165474
+status: 3
+tags: []
+user_id: smirnova

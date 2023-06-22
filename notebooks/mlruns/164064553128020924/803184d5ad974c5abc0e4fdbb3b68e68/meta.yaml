@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/803184d5ad974c5abc0e4fdbb3b68e68/artifacts
+deleted_time: 1687472462968
+end_time: 1687461469693
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: 803184d5ad974c5abc0e4fdbb3b68e68
+run_name: fortunate-trout-423
+run_uuid: 803184d5ad974c5abc0e4fdbb3b68e68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461469676
+status: 3
+tags: []
+user_id: smirnova

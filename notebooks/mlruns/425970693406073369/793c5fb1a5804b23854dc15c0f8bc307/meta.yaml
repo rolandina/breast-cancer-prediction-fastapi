@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/793c5fb1a5804b23854dc15c0f8bc307/artifacts
+end_time: 1687461434426
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: 793c5fb1a5804b23854dc15c0f8bc307
+run_name: bustling-yak-34
+run_uuid: 793c5fb1a5804b23854dc15c0f8bc307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461434414
+status: 3
+tags: []
+user_id: smirnova

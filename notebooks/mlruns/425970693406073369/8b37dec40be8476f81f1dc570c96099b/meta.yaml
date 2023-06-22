@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/8b37dec40be8476f81f1dc570c96099b/artifacts
+end_time: 1687472186792
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: 8b37dec40be8476f81f1dc570c96099b
+run_name: bittersweet-colt-521
+run_uuid: 8b37dec40be8476f81f1dc570c96099b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472186760
+status: 3
+tags: []
+user_id: smirnova

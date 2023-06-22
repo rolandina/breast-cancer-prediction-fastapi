@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/738526ac731f417f8792ae8d799dfd31/artifacts
+end_time: 1687470887100
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 738526ac731f417f8792ae8d799dfd31
+run_name: tasteful-asp-542
+run_uuid: 738526ac731f417f8792ae8d799dfd31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470887064
+status: 3
+tags: []
+user_id: smirnova

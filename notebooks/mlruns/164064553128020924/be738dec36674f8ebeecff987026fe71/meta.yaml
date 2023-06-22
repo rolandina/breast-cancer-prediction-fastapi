@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/be738dec36674f8ebeecff987026fe71/artifacts
+deleted_time: 1687472480029
+end_time: 1687472236848
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: be738dec36674f8ebeecff987026fe71
+run_name: treasured-horse-984
+run_uuid: be738dec36674f8ebeecff987026fe71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472236812
+status: 3
+tags: []
+user_id: smirnova

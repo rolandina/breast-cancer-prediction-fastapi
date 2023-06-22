@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/c544b70a70c14c758a4a0d46f1d7a77a/artifacts
+deleted_time: 1687472359001
+end_time: 1687472165658
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: c544b70a70c14c758a4a0d46f1d7a77a
+run_name: fun-goat-375
+run_uuid: c544b70a70c14c758a4a0d46f1d7a77a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472165631
+status: 3
+tags: []
+user_id: smirnova

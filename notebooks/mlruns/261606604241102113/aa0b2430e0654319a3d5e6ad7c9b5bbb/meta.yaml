@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/aa0b2430e0654319a3d5e6ad7c9b5bbb/artifacts
+deleted_time: 1687472359026
+end_time: 1687472165427
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: aa0b2430e0654319a3d5e6ad7c9b5bbb
+run_name: flawless-stoat-884
+run_uuid: aa0b2430e0654319a3d5e6ad7c9b5bbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472165397
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/fce3c908ab7042ffa7364f054c00046d/artifacts
+deleted_time: 1687472499835
+end_time: 1687461433578
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: deleted
+run_id: fce3c908ab7042ffa7364f054c00046d
+run_name: clumsy-horse-918
+run_uuid: fce3c908ab7042ffa7364f054c00046d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461433563
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/ffcec9b988874010950aedbdc2cb5508/artifacts
+end_time: 1687470887715
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: ffcec9b988874010950aedbdc2cb5508
+run_name: nimble-finch-71
+run_uuid: ffcec9b988874010950aedbdc2cb5508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470887686
+status: 3
+tags: []
+user_id: smirnova

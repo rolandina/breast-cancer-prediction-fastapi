@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/a0b28353a2ae45aa8d570051b67d582f/artifacts
+end_time: 1687472185433
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: a0b28353a2ae45aa8d570051b67d582f
+run_name: hilarious-roo-936
+run_uuid: a0b28353a2ae45aa8d570051b67d582f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472185396
+status: 3
+tags: []
+user_id: smirnova

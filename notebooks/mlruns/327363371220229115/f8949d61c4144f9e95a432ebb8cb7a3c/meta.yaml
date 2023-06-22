@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/327363371220229115/f8949d61c4144f9e95a432ebb8cb7a3c/artifacts
+end_time: 1687472193730
+entry_point_name: ''
+experiment_id: '327363371220229115'
+lifecycle_stage: active
+run_id: f8949d61c4144f9e95a432ebb8cb7a3c
+run_name: delightful-goose-160
+run_uuid: f8949d61c4144f9e95a432ebb8cb7a3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472193693
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/521208121535571883/c4775169b6244e03842efed37f0c68f7/artifacts
+end_time: 1687461459402
+entry_point_name: ''
+experiment_id: '521208121535571883'
+lifecycle_stage: active
+run_id: c4775169b6244e03842efed37f0c68f7
+run_name: charming-foal-184
+run_uuid: c4775169b6244e03842efed37f0c68f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461459343
+status: 3
+tags: []
+user_id: smirnova

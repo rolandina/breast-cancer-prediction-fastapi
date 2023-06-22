@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/c01308e4927640f48485bb65e6f2ec30/artifacts
+end_time: 1687470828036
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: c01308e4927640f48485bb65e6f2ec30
+run_name: smiling-wolf-732
+run_uuid: c01308e4927640f48485bb65e6f2ec30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470828009
+status: 3
+tags: []
+user_id: smirnova

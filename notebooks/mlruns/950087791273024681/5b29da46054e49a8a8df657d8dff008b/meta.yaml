@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/5b29da46054e49a8a8df657d8dff008b/artifacts
+end_time: 1687470829142
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 5b29da46054e49a8a8df657d8dff008b
+run_name: nebulous-gull-386
+run_uuid: 5b29da46054e49a8a8df657d8dff008b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470829118
+status: 3
+tags: []
+user_id: smirnova

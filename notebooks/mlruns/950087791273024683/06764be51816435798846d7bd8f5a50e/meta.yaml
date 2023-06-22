@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024683/06764be51816435798846d7bd8f5a50e/artifacts
+end_time: 1687470840421
+entry_point_name: ''
+experiment_id: '950087791273024683'
+lifecycle_stage: active
+run_id: 06764be51816435798846d7bd8f5a50e
+run_name: unleashed-skunk-687
+run_uuid: 06764be51816435798846d7bd8f5a50e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470840391
+status: 3
+tags: []
+user_id: smirnova

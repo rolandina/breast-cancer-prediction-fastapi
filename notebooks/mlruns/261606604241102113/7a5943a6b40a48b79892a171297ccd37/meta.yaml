@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/7a5943a6b40a48b79892a171297ccd37/artifacts
+deleted_time: 1687472359016
+end_time: 1687472165536
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 7a5943a6b40a48b79892a171297ccd37
+run_name: orderly-sloth-816
+run_uuid: 7a5943a6b40a48b79892a171297ccd37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472165509
+status: 3
+tags: []
+user_id: smirnova

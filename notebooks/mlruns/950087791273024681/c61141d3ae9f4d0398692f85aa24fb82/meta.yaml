@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/c61141d3ae9f4d0398692f85aa24fb82/artifacts
+end_time: 1687470828900
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: c61141d3ae9f4d0398692f85aa24fb82
+run_name: beautiful-crow-447
+run_uuid: c61141d3ae9f4d0398692f85aa24fb82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470828867
+status: 3
+tags: []
+user_id: smirnova

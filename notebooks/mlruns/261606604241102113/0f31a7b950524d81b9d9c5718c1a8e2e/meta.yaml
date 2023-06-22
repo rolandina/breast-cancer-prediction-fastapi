@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/0f31a7b950524d81b9d9c5718c1a8e2e/artifacts
+deleted_time: 1687472328553
+end_time: 1687472167215
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 0f31a7b950524d81b9d9c5718c1a8e2e
+run_name: amazing-duck-362
+run_uuid: 0f31a7b950524d81b9d9c5718c1a8e2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472167189
+status: 3
+tags: []
+user_id: smirnova

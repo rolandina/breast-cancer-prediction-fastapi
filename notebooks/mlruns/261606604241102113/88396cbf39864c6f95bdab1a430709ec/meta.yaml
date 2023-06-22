@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/88396cbf39864c6f95bdab1a430709ec/artifacts
+deleted_time: 1687472328566
+end_time: 1687472167088
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 88396cbf39864c6f95bdab1a430709ec
+run_name: capable-hog-438
+run_uuid: 88396cbf39864c6f95bdab1a430709ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472167059
+status: 3
+tags: []
+user_id: smirnova

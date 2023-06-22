@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/931dbdd0465d406ebcc1a7cb89a7a877/artifacts
+deleted_time: 1687472328574
+end_time: 1687472167016
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 931dbdd0465d406ebcc1a7cb89a7a877
+run_name: secretive-snake-930
+run_uuid: 931dbdd0465d406ebcc1a7cb89a7a877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472166990
+status: 3
+tags: []
+user_id: smirnova

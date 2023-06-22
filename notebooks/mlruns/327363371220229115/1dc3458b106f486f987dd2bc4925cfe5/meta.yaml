@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/327363371220229115/1dc3458b106f486f987dd2bc4925cfe5/artifacts
+end_time: 1687461441275
+entry_point_name: ''
+experiment_id: '327363371220229115'
+lifecycle_stage: active
+run_id: 1dc3458b106f486f987dd2bc4925cfe5
+run_name: bedecked-goat-940
+run_uuid: 1dc3458b106f486f987dd2bc4925cfe5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461441263
+status: 3
+tags: []
+user_id: smirnova

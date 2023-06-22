@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/e5f1914d4e6544edba4ec785a46adc61/artifacts
+end_time: 1687470887286
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: e5f1914d4e6544edba4ec785a46adc61
+run_name: vaunted-shad-139
+run_uuid: e5f1914d4e6544edba4ec785a46adc61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470887246
+status: 3
+tags: []
+user_id: smirnova

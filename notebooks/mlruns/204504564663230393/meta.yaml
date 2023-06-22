@@ -1,0 +1,6 @@
+artifact_location: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/204504564663230393
+creation_time: 1687461460883
+experiment_id: '204504564663230393'
+last_update_time: 1687461460883
+lifecycle_stage: active
+name: KNN grid_search_experiment (balanced data)

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/066bc2a327cf470eb5bbfdaf92468af9/artifacts
+end_time: 1687461433720
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: 066bc2a327cf470eb5bbfdaf92468af9
+run_name: handsome-perch-201
+run_uuid: 066bc2a327cf470eb5bbfdaf92468af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461433707
+status: 3
+tags: []
+user_id: smirnova

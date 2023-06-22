@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/1a25dc04ae294801b134d0c515c43540/artifacts
+end_time: 1687470887573
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 1a25dc04ae294801b134d0c515c43540
+run_name: puzzled-rat-912
+run_uuid: 1a25dc04ae294801b134d0c515c43540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470887544
+status: 3
+tags: []
+user_id: smirnova

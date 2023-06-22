@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/89ce04eb641b4410a6219b3c6669eeba/artifacts
+end_time: 1687472186042
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: 89ce04eb641b4410a6219b3c6669eeba
+run_name: handsome-boar-923
+run_uuid: 89ce04eb641b4410a6219b3c6669eeba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472186008
+status: 3
+tags: []
+user_id: smirnova

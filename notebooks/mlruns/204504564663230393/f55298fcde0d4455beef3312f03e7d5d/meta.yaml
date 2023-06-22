@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/204504564663230393/f55298fcde0d4455beef3312f03e7d5d/artifacts
+end_time: 1687461461051
+entry_point_name: ''
+experiment_id: '204504564663230393'
+lifecycle_stage: active
+run_id: f55298fcde0d4455beef3312f03e7d5d
+run_name: worried-grub-903
+run_uuid: f55298fcde0d4455beef3312f03e7d5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461461036
+status: 3
+tags: []
+user_id: smirnova

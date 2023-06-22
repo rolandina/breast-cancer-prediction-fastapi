@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024685/3b412e13924f4d97ae27fbc1e45870e1/artifacts
+end_time: 1687470876282
+entry_point_name: ''
+experiment_id: '950087791273024685'
+lifecycle_stage: active
+run_id: 3b412e13924f4d97ae27fbc1e45870e1
+run_name: bald-lamb-422
+run_uuid: 3b412e13924f4d97ae27fbc1e45870e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470876251
+status: 3
+tags: []
+user_id: smirnova

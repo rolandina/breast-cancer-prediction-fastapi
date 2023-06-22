@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/d7da5e754f2f4af5b77df69c0df192b5/artifacts
+end_time: 1687461433823
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: d7da5e754f2f4af5b77df69c0df192b5
+run_name: auspicious-dog-275
+run_uuid: d7da5e754f2f4af5b77df69c0df192b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461433810
+status: 3
+tags: []
+user_id: smirnova

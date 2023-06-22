@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/8871847c6cc8461e99f32fce70359287/artifacts
+end_time: 1687470886866
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 8871847c6cc8461e99f32fce70359287
+run_name: merciful-wasp-674
+run_uuid: 8871847c6cc8461e99f32fce70359287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886837
+status: 3
+tags: []
+user_id: smirnova

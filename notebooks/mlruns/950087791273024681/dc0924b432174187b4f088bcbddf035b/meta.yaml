@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/dc0924b432174187b4f088bcbddf035b/artifacts
+end_time: 1687470829295
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: dc0924b432174187b4f088bcbddf035b
+run_name: funny-fox-676
+run_uuid: dc0924b432174187b4f088bcbddf035b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470829270
+status: 3
+tags: []
+user_id: smirnova

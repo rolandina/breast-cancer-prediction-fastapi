@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/087c2a0c5e5a4c32ba089ef3099996ff/artifacts
+deleted_time: 1687472462918
+end_time: 1687461469954
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: 087c2a0c5e5a4c32ba089ef3099996ff
+run_name: adaptable-lark-616
+run_uuid: 087c2a0c5e5a4c32ba089ef3099996ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461469937
+status: 3
+tags: []
+user_id: smirnova

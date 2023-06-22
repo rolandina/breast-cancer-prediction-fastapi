@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/ece7d5a9ef6d46928f19f31e7f4a4ae3/artifacts
+end_time: 1687470828444
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: ece7d5a9ef6d46928f19f31e7f4a4ae3
+run_name: suave-mouse-918
+run_uuid: ece7d5a9ef6d46928f19f31e7f4a4ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470828419
+status: 3
+tags: []
+user_id: smirnova

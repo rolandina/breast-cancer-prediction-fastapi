@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024683/06ed99c0e5004dae8723de0a6e0c26d3/artifacts
+end_time: 1687470840531
+entry_point_name: ''
+experiment_id: '950087791273024683'
+lifecycle_stage: active
+run_id: 06ed99c0e5004dae8723de0a6e0c26d3
+run_name: nervous-crow-933
+run_uuid: 06ed99c0e5004dae8723de0a6e0c26d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470840503
+status: 3
+tags: []
+user_id: smirnova

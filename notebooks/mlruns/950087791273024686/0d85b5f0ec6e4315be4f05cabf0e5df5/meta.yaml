@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/0d85b5f0ec6e4315be4f05cabf0e5df5/artifacts
+end_time: 1687470886831
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 0d85b5f0ec6e4315be4f05cabf0e5df5
+run_name: unique-fly-594
+run_uuid: 0d85b5f0ec6e4315be4f05cabf0e5df5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886805
+status: 3
+tags: []
+user_id: smirnova

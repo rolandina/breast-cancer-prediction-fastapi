@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/6e3d69efaf2849428d2e67fbba6e2e0e/artifacts
+end_time: 1687461433947
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: 6e3d69efaf2849428d2e67fbba6e2e0e
+run_name: sedate-cod-903
+run_uuid: 6e3d69efaf2849428d2e67fbba6e2e0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461433931
+status: 3
+tags: []
+user_id: smirnova

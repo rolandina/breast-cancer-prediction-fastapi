@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/3e93e24bc0d04c419e797a47a3e782cf/artifacts
+end_time: 1687470886611
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 3e93e24bc0d04c419e797a47a3e782cf
+run_name: enthused-dove-351
+run_uuid: 3e93e24bc0d04c419e797a47a3e782cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886581
+status: 3
+tags: []
+user_id: smirnova

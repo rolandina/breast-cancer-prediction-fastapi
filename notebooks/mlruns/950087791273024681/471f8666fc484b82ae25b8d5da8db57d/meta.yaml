@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/471f8666fc484b82ae25b8d5da8db57d/artifacts
+end_time: 1687470828940
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 471f8666fc484b82ae25b8d5da8db57d
+run_name: righteous-trout-15
+run_uuid: 471f8666fc484b82ae25b8d5da8db57d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470828907
+status: 3
+tags: []
+user_id: smirnova

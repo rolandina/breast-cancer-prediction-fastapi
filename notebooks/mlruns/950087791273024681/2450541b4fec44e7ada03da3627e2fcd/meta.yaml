@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/2450541b4fec44e7ada03da3627e2fcd/artifacts
+end_time: 1687470827726
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 2450541b4fec44e7ada03da3627e2fcd
+run_name: debonair-squid-459
+run_uuid: 2450541b4fec44e7ada03da3627e2fcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470827702
+status: 3
+tags: []
+user_id: smirnova

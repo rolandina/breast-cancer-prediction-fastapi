@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/cc426dad35d942249b8faf36edad819f/artifacts
+end_time: 1687470827509
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: cc426dad35d942249b8faf36edad819f
+run_name: worried-smelt-448
+run_uuid: cc426dad35d942249b8faf36edad819f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470827475
+status: 3
+tags: []
+user_id: smirnova

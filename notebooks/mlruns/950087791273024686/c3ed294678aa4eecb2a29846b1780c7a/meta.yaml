@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/c3ed294678aa4eecb2a29846b1780c7a/artifacts
+end_time: 1687470887390
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: c3ed294678aa4eecb2a29846b1780c7a
+run_name: delightful-fly-598
+run_uuid: c3ed294678aa4eecb2a29846b1780c7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470887361
+status: 3
+tags: []
+user_id: smirnova

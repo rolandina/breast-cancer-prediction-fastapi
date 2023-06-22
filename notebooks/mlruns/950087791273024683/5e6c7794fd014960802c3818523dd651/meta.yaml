@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024683/5e6c7794fd014960802c3818523dd651/artifacts
+end_time: 1687470840816
+entry_point_name: ''
+experiment_id: '950087791273024683'
+lifecycle_stage: active
+run_id: 5e6c7794fd014960802c3818523dd651
+run_name: chill-eel-100
+run_uuid: 5e6c7794fd014960802c3818523dd651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470840786
+status: 3
+tags: []
+user_id: smirnova

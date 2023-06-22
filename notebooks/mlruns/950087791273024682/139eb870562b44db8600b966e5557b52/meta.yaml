@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024682/139eb870562b44db8600b966e5557b52/artifacts
+end_time: 1687470835793
+entry_point_name: ''
+experiment_id: '950087791273024682'
+lifecycle_stage: active
+run_id: 139eb870562b44db8600b966e5557b52
+run_name: hilarious-ape-736
+run_uuid: 139eb870562b44db8600b966e5557b52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470835766
+status: 3
+tags: []
+user_id: smirnova

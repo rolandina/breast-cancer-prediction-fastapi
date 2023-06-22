@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/5474bec0d1c349c7bde9733d6fa89f9c/artifacts
+end_time: 1687470828341
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 5474bec0d1c349c7bde9733d6fa89f9c
+run_name: clumsy-yak-113
+run_uuid: 5474bec0d1c349c7bde9733d6fa89f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470828313
+status: 3
+tags: []
+user_id: smirnova

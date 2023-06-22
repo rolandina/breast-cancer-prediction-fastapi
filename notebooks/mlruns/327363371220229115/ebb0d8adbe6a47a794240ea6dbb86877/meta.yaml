@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/327363371220229115/ebb0d8adbe6a47a794240ea6dbb86877/artifacts
+end_time: 1687461441248
+entry_point_name: ''
+experiment_id: '327363371220229115'
+lifecycle_stage: active
+run_id: ebb0d8adbe6a47a794240ea6dbb86877
+run_name: calm-mole-768
+run_uuid: ebb0d8adbe6a47a794240ea6dbb86877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461441236
+status: 3
+tags: []
+user_id: smirnova

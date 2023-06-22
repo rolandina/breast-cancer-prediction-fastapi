@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/c5c4715e1305473c8c2ed475c2882e72/artifacts
+deleted_time: 1687472328550
+end_time: 1687472167243
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: c5c4715e1305473c8c2ed475c2882e72
+run_name: invincible-shark-747
+run_uuid: c5c4715e1305473c8c2ed475c2882e72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472167219
+status: 3
+tags: []
+user_id: smirnova

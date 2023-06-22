@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/ff1827a1fe0d4c35b80caa68b32ffedd/artifacts
+deleted_time: 1687472462847
+end_time: 1687461470342
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: ff1827a1fe0d4c35b80caa68b32ffedd
+run_name: skittish-cub-86
+run_uuid: ff1827a1fe0d4c35b80caa68b32ffedd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461470323
+status: 3
+tags: []
+user_id: smirnova

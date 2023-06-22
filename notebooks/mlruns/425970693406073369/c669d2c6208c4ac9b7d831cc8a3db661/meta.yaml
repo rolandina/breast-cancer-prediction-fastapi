@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/c669d2c6208c4ac9b7d831cc8a3db661/artifacts
+end_time: 1687472186124
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: c669d2c6208c4ac9b7d831cc8a3db661
+run_name: amusing-tern-605
+run_uuid: c669d2c6208c4ac9b7d831cc8a3db661
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472186089
+status: 3
+tags: []
+user_id: smirnova

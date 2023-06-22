@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/b0fa0b75d80643d1980a8a2d93f97b37/artifacts
+end_time: 1687472187268
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: b0fa0b75d80643d1980a8a2d93f97b37
+run_name: beautiful-newt-674
+run_uuid: b0fa0b75d80643d1980a8a2d93f97b37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472187230
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/16c136c871a74a84b6ff98263f0a7d58/artifacts
+end_time: 1687470828308
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 16c136c871a74a84b6ff98263f0a7d58
+run_name: magnificent-jay-257
+run_uuid: 16c136c871a74a84b6ff98263f0a7d58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470828281
+status: 3
+tags: []
+user_id: smirnova

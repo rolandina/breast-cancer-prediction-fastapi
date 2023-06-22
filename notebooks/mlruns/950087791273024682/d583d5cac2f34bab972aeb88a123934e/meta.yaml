@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024682/d583d5cac2f34bab972aeb88a123934e/artifacts
+end_time: 1687470835661
+entry_point_name: ''
+experiment_id: '950087791273024682'
+lifecycle_stage: active
+run_id: d583d5cac2f34bab972aeb88a123934e
+run_name: grandiose-lark-871
+run_uuid: d583d5cac2f34bab972aeb88a123934e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470835631
+status: 3
+tags: []
+user_id: smirnova

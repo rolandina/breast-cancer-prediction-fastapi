@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/e8224086483f484ca602f7a374933a5f/artifacts
+end_time: 1687470886648
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: e8224086483f484ca602f7a374933a5f
+run_name: agreeable-fawn-331
+run_uuid: e8224086483f484ca602f7a374933a5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886617
+status: 3
+tags: []
+user_id: smirnova

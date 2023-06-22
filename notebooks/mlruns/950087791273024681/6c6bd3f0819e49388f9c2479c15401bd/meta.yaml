@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/6c6bd3f0819e49388f9c2479c15401bd/artifacts
+end_time: 1687470829171
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 6c6bd3f0819e49388f9c2479c15401bd
+run_name: marvelous-tern-246
+run_uuid: 6c6bd3f0819e49388f9c2479c15401bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470829147
+status: 3
+tags: []
+user_id: smirnova

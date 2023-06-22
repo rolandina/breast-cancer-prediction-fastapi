@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/204504564663230393/7f3d7486e39d47cb82e0fe47ede594b2/artifacts
+end_time: 1687472226614
+entry_point_name: ''
+experiment_id: '204504564663230393'
+lifecycle_stage: active
+run_id: 7f3d7486e39d47cb82e0fe47ede594b2
+run_name: rebellious-stag-664
+run_uuid: 7f3d7486e39d47cb82e0fe47ede594b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472226574
+status: 3
+tags: []
+user_id: smirnova

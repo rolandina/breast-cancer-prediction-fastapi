@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/39432d76ca33420585d16a317bc8a138/artifacts
+deleted_time: 1687472328580
+end_time: 1687472166952
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 39432d76ca33420585d16a317bc8a138
+run_name: mysterious-shrew-467
+run_uuid: 39432d76ca33420585d16a317bc8a138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472166924
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/327363371220229115/8064c2be7141469f89a43cceb85126eb/artifacts
+end_time: 1687472196152
+entry_point_name: ''
+experiment_id: '327363371220229115'
+lifecycle_stage: active
+run_id: 8064c2be7141469f89a43cceb85126eb
+run_name: masked-quail-737
+run_uuid: 8064c2be7141469f89a43cceb85126eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472189127
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024682/e026dbdc91c645c4bb03bf12a33289c4/artifacts
+end_time: 1687470836109
+entry_point_name: ''
+experiment_id: '950087791273024682'
+lifecycle_stage: active
+run_id: e026dbdc91c645c4bb03bf12a33289c4
+run_name: nimble-fly-190
+run_uuid: e026dbdc91c645c4bb03bf12a33289c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470836083
+status: 3
+tags: []
+user_id: smirnova

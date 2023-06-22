@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/861cb2e6f01a4176b24d25a6e7e26a6a/artifacts
+deleted_time: 1687472328583
+end_time: 1687472166917
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 861cb2e6f01a4176b24d25a6e7e26a6a
+run_name: loud-sponge-492
+run_uuid: 861cb2e6f01a4176b24d25a6e7e26a6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472166892
+status: 3
+tags: []
+user_id: smirnova

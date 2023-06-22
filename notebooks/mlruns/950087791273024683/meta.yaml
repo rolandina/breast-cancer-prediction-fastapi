@@ -1,0 +1,6 @@
+artifact_location: ./mlruns/950087791273024683
+creation_time: 1687470837829
+experiment_id: '950087791273024683'
+last_update_time: 1687470837829
+lifecycle_stage: active
+name: LGB not biassed - grid_search_experiment (balanced data)

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/51fecb5f0f8048a6b0bdc0ccfbc98a69/artifacts
+deleted_time: 1687472358935
+end_time: 1687472166471
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 51fecb5f0f8048a6b0bdc0ccfbc98a69
+run_name: ambitious-hare-613
+run_uuid: 51fecb5f0f8048a6b0bdc0ccfbc98a69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472166445
+status: 3
+tags: []
+user_id: smirnova

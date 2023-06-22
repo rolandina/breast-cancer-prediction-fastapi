@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/828f42d2c1424e4da9794c0cab8482d5/artifacts
+end_time: 1687470829075
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 828f42d2c1424e4da9794c0cab8482d5
+run_name: silent-foal-813
+run_uuid: 828f42d2c1424e4da9794c0cab8482d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470829046
+status: 3
+tags: []
+user_id: smirnova

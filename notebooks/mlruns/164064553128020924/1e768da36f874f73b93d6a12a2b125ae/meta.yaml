@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/1e768da36f874f73b93d6a12a2b125ae/artifacts
+deleted_time: 1687472462986
+end_time: 1687461469621
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: 1e768da36f874f73b93d6a12a2b125ae
+run_name: nervous-asp-234
+run_uuid: 1e768da36f874f73b93d6a12a2b125ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461469606
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024682/46d066d45447461f81c761577f4ef59c/artifacts
+end_time: 1687470835626
+entry_point_name: ''
+experiment_id: '950087791273024682'
+lifecycle_stage: active
+run_id: 46d066d45447461f81c761577f4ef59c
+run_name: caring-rook-634
+run_uuid: 46d066d45447461f81c761577f4ef59c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470835598
+status: 3
+tags: []
+user_id: smirnova

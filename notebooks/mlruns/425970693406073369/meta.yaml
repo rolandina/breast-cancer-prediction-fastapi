@@ -1,0 +1,6 @@
+artifact_location: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369
+creation_time: 1687461432504
+experiment_id: '425970693406073369'
+last_update_time: 1687461432504
+lifecycle_stage: active
+name: LR grid_search_experiment (balanced data)

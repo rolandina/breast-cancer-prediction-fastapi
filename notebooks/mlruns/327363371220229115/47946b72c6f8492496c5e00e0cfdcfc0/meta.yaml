@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/327363371220229115/47946b72c6f8492496c5e00e0cfdcfc0/artifacts
+end_time: 1687472193685
+entry_point_name: ''
+experiment_id: '327363371220229115'
+lifecycle_stage: active
+run_id: 47946b72c6f8492496c5e00e0cfdcfc0
+run_name: rambunctious-cow-83
+run_uuid: 47946b72c6f8492496c5e00e0cfdcfc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472193646
+status: 3
+tags: []
+user_id: smirnova

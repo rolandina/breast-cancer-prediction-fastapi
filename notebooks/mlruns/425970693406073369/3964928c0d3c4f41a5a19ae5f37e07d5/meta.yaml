@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/3964928c0d3c4f41a5a19ae5f37e07d5/artifacts
+end_time: 1687472185763
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: 3964928c0d3c4f41a5a19ae5f37e07d5
+run_name: stately-gull-80
+run_uuid: 3964928c0d3c4f41a5a19ae5f37e07d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472185733
+status: 3
+tags: []
+user_id: smirnova

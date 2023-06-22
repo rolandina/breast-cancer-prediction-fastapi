@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/0f4d8d649aff456aa57d48f83f46290f/artifacts
+end_time: 1687461433734
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: 0f4d8d649aff456aa57d48f83f46290f
+run_name: mysterious-calf-503
+run_uuid: 0f4d8d649aff456aa57d48f83f46290f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461433722
+status: 3
+tags: []
+user_id: smirnova

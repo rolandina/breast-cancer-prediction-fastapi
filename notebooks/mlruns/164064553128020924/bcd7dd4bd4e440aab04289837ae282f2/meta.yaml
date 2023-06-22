@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/bcd7dd4bd4e440aab04289837ae282f2/artifacts
+deleted_time: 1687472462893
+end_time: 1687461470069
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: bcd7dd4bd4e440aab04289837ae282f2
+run_name: dapper-wren-160
+run_uuid: bcd7dd4bd4e440aab04289837ae282f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461470054
+status: 3
+tags: []
+user_id: smirnova

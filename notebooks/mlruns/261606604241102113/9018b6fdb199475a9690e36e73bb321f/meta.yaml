@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/9018b6fdb199475a9690e36e73bb321f/artifacts
+deleted_time: 1687472359022
+end_time: 1687472165467
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 9018b6fdb199475a9690e36e73bb321f
+run_name: popular-zebra-58
+run_uuid: 9018b6fdb199475a9690e36e73bb321f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472165434
+status: 3
+tags: []
+user_id: smirnova

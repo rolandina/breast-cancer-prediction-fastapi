@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/6f77b64e13ae4380921df81afa761e7d/artifacts
+end_time: 1687470886800
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 6f77b64e13ae4380921df81afa761e7d
+run_name: serious-eel-217
+run_uuid: 6f77b64e13ae4380921df81afa761e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886760
+status: 3
+tags: []
+user_id: smirnova

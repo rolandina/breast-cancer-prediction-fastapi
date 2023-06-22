@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/903640cbbc7b4b79a986a799e6ad7027/artifacts
+end_time: 1687470828794
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 903640cbbc7b4b79a986a799e6ad7027
+run_name: able-loon-198
+run_uuid: 903640cbbc7b4b79a986a799e6ad7027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470828768
+status: 3
+tags: []
+user_id: smirnova

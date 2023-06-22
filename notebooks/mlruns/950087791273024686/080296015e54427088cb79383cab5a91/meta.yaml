@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/080296015e54427088cb79383cab5a91/artifacts
+end_time: 1687470887680
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 080296015e54427088cb79383cab5a91
+run_name: polite-robin-279
+run_uuid: 080296015e54427088cb79383cab5a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470887649
+status: 3
+tags: []
+user_id: smirnova

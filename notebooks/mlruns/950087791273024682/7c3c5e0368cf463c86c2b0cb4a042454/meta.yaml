@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024682/7c3c5e0368cf463c86c2b0cb4a042454/artifacts
+end_time: 1687470835428
+entry_point_name: ''
+experiment_id: '950087791273024682'
+lifecycle_stage: active
+run_id: 7c3c5e0368cf463c86c2b0cb4a042454
+run_name: aged-donkey-826
+run_uuid: 7c3c5e0368cf463c86c2b0cb4a042454
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470835396
+status: 3
+tags: []
+user_id: smirnova

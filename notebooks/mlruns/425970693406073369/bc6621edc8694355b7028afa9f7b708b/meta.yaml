@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/bc6621edc8694355b7028afa9f7b708b/artifacts
+end_time: 1687472185797
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: bc6621edc8694355b7028afa9f7b708b
+run_name: lyrical-newt-384
+run_uuid: bc6621edc8694355b7028afa9f7b708b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472185768
+status: 3
+tags: []
+user_id: smirnova

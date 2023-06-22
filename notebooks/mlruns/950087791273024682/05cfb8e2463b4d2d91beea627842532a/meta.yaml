@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024682/05cfb8e2463b4d2d91beea627842532a/artifacts
+end_time: 1687470835591
+entry_point_name: ''
+experiment_id: '950087791273024682'
+lifecycle_stage: active
+run_id: 05cfb8e2463b4d2d91beea627842532a
+run_name: clumsy-snipe-107
+run_uuid: 05cfb8e2463b4d2d91beea627842532a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470835565
+status: 3
+tags: []
+user_id: smirnova

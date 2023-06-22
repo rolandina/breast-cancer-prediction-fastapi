@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/209855a622ab4f5899f104311685aec0/artifacts
+end_time: 1687470827545
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 209855a622ab4f5899f104311685aec0
+run_name: masked-shrike-97
+run_uuid: 209855a622ab4f5899f104311685aec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470827515
+status: 3
+tags: []
+user_id: smirnova

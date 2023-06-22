@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/398170170344401980/21a96d47d01a4b08a2f8bb0b53bba251/artifacts
+deleted_time: 1687472045102
+end_time: 1687461447125
+entry_point_name: ''
+experiment_id: '398170170344401980'
+lifecycle_stage: deleted
+run_id: 21a96d47d01a4b08a2f8bb0b53bba251
+run_name: bald-panda-496
+run_uuid: 21a96d47d01a4b08a2f8bb0b53bba251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461442814
+status: 3
+tags: []
+user_id: smirnova

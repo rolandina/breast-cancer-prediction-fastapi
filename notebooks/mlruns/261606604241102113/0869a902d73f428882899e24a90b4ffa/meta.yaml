@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/0869a902d73f428882899e24a90b4ffa/artifacts
+deleted_time: 1687472358954
+end_time: 1687472166279
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 0869a902d73f428882899e24a90b4ffa
+run_name: serious-hound-336
+run_uuid: 0869a902d73f428882899e24a90b4ffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472166251
+status: 3
+tags: []
+user_id: smirnova

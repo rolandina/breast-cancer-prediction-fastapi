@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024682/6f234d681082410890fd58f814154e09/artifacts
+end_time: 1687470835461
+entry_point_name: ''
+experiment_id: '950087791273024682'
+lifecycle_stage: active
+run_id: 6f234d681082410890fd58f814154e09
+run_name: adorable-frog-57
+run_uuid: 6f234d681082410890fd58f814154e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470835434
+status: 3
+tags: []
+user_id: smirnova

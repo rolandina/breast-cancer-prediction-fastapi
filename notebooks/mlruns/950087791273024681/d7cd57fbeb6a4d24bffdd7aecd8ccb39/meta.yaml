@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/d7cd57fbeb6a4d24bffdd7aecd8ccb39/artifacts
+end_time: 1687470829201
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: d7cd57fbeb6a4d24bffdd7aecd8ccb39
+run_name: persistent-cod-603
+run_uuid: d7cd57fbeb6a4d24bffdd7aecd8ccb39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470829176
+status: 3
+tags: []
+user_id: smirnova

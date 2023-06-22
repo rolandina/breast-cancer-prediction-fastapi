@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/a360a9bc6e364a93a9b6f32917a89eae/artifacts
+end_time: 1687470886383
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: a360a9bc6e364a93a9b6f32917a89eae
+run_name: carefree-panda-7
+run_uuid: a360a9bc6e364a93a9b6f32917a89eae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886357
+status: 3
+tags: []
+user_id: smirnova

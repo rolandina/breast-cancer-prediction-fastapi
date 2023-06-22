@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/26676df1bd0f4a62bc254ab37a9223c9/artifacts
+end_time: 1687472186830
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: 26676df1bd0f4a62bc254ab37a9223c9
+run_name: skittish-toad-263
+run_uuid: 26676df1bd0f4a62bc254ab37a9223c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472186797
+status: 3
+tags: []
+user_id: smirnova

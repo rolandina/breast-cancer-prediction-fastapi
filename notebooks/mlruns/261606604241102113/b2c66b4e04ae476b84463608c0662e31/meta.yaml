@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/b2c66b4e04ae476b84463608c0662e31/artifacts
+deleted_time: 1687472358921
+end_time: 1687472166596
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: b2c66b4e04ae476b84463608c0662e31
+run_name: blushing-fox-821
+run_uuid: b2c66b4e04ae476b84463608c0662e31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472166567
+status: 3
+tags: []
+user_id: smirnova

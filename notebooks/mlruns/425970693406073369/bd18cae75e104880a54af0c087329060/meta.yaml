@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/bd18cae75e104880a54af0c087329060/artifacts
+deleted_time: 1687472499840
+end_time: 1687461433561
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: deleted
+run_id: bd18cae75e104880a54af0c087329060
+run_name: traveling-stork-961
+run_uuid: bd18cae75e104880a54af0c087329060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461433547
+status: 3
+tags: []
+user_id: smirnova

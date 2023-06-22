@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/327363371220229115/c7596224350148c688f4949a2d8d6e92/artifacts
+end_time: 1687461441234
+entry_point_name: ''
+experiment_id: '327363371220229115'
+lifecycle_stage: active
+run_id: c7596224350148c688f4949a2d8d6e92
+run_name: righteous-koi-145
+run_uuid: c7596224350148c688f4949a2d8d6e92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461441223
+status: 3
+tags: []
+user_id: smirnova

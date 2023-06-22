@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/d187a1329a8543989993e1dbe4da299e/artifacts
+end_time: 1687470886683
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: d187a1329a8543989993e1dbe4da299e
+run_name: nosy-snail-33
+run_uuid: d187a1329a8543989993e1dbe4da299e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886653
+status: 3
+tags: []
+user_id: smirnova

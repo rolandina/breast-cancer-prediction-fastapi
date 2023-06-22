@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/4be5b27c2d4145f8b656486c90509d80/artifacts
+end_time: 1687470886457
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 4be5b27c2d4145f8b656486c90509d80
+run_name: likeable-ant-166
+run_uuid: 4be5b27c2d4145f8b656486c90509d80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886425
+status: 3
+tags: []
+user_id: smirnova

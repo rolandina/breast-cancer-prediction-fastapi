@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/c14e737bf87646aaa48a8ac82d4033ed/artifacts
+end_time: 1687470893263
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: c14e737bf87646aaa48a8ac82d4033ed
+run_name: nervous-goose-908
+run_uuid: c14e737bf87646aaa48a8ac82d4033ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470878294
+status: 3
+tags: []
+user_id: smirnova

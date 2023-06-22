@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/fc872a1634934615a0cb48e3a0fa6314/artifacts
+deleted_time: 1687472462945
+end_time: 1687461469815
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: fc872a1634934615a0cb48e3a0fa6314
+run_name: gifted-squirrel-152
+run_uuid: fc872a1634934615a0cb48e3a0fa6314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461469799
+status: 3
+tags: []
+user_id: smirnova

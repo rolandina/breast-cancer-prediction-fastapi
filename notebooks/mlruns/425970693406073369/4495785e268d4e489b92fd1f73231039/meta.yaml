@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/4495785e268d4e489b92fd1f73231039/artifacts
+end_time: 1687472186001
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: 4495785e268d4e489b92fd1f73231039
+run_name: rebellious-bat-47
+run_uuid: 4495785e268d4e489b92fd1f73231039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472185966
+status: 3
+tags: []
+user_id: smirnova

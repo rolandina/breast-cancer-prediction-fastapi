@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/024866c159f340979fd024b9416f9f64/artifacts
+end_time: 1687470828826
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 024866c159f340979fd024b9416f9f64
+run_name: powerful-carp-692
+run_uuid: 024866c159f340979fd024b9416f9f64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470828800
+status: 3
+tags: []
+user_id: smirnova

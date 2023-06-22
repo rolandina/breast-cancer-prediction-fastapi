@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024683/5d378bf3ce7542f4820f823e4377c0f8/artifacts
+end_time: 1687470840696
+entry_point_name: ''
+experiment_id: '950087791273024683'
+lifecycle_stage: active
+run_id: 5d378bf3ce7542f4820f823e4377c0f8
+run_name: awesome-shrimp-780
+run_uuid: 5d378bf3ce7542f4820f823e4377c0f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470840669
+status: 3
+tags: []
+user_id: smirnova

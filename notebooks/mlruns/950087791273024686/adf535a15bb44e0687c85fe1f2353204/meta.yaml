@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/adf535a15bb44e0687c85fe1f2353204/artifacts
+end_time: 1687470887137
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: adf535a15bb44e0687c85fe1f2353204
+run_name: dapper-croc-771
+run_uuid: adf535a15bb44e0687c85fe1f2353204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470887106
+status: 3
+tags: []
+user_id: smirnova

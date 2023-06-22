@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/7de2214be7364e6f92d66b74c5fb2668/artifacts
+end_time: 1687470886537
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 7de2214be7364e6f92d66b74c5fb2668
+run_name: carefree-goat-326
+run_uuid: 7de2214be7364e6f92d66b74c5fb2668
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886510
+status: 3
+tags: []
+user_id: smirnova

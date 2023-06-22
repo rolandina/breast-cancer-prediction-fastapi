@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/42b4f22f291b4ebeaa68fc26651a436b/artifacts
+deleted_time: 1687472462830
+end_time: 1687461470463
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: 42b4f22f291b4ebeaa68fc26651a436b
+run_name: flawless-grub-263
+run_uuid: 42b4f22f291b4ebeaa68fc26651a436b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461470437
+status: 3
+tags: []
+user_id: smirnova

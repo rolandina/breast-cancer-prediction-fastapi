@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/058e446460c04ebda0a8d05c3eff5ff7/artifacts
+deleted_time: 1687472480009
+end_time: 1687472237062
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: 058e446460c04ebda0a8d05c3eff5ff7
+run_name: beautiful-ox-935
+run_uuid: 058e446460c04ebda0a8d05c3eff5ff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472237023
+status: 3
+tags: []
+user_id: smirnova

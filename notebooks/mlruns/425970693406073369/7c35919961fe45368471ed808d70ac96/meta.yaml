@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/7c35919961fe45368471ed808d70ac96/artifacts
+deleted_time: 1687472499828
+end_time: 1687461433611
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: deleted
+run_id: 7c35919961fe45368471ed808d70ac96
+run_name: peaceful-swan-561
+run_uuid: 7c35919961fe45368471ed808d70ac96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461433597
+status: 3
+tags: []
+user_id: smirnova

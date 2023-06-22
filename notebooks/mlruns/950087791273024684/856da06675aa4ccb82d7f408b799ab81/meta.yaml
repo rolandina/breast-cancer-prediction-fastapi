@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024684/856da06675aa4ccb82d7f408b799ab81/artifacts
+end_time: 1687470873355
+entry_point_name: ''
+experiment_id: '950087791273024684'
+lifecycle_stage: active
+run_id: 856da06675aa4ccb82d7f408b799ab81
+run_name: mysterious-mink-472
+run_uuid: 856da06675aa4ccb82d7f408b799ab81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470873303
+status: 3
+tags: []
+user_id: smirnova

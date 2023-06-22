@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/272f9354770e4114badc373dc070c676/artifacts
+end_time: 1687470827912
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 272f9354770e4114badc373dc070c676
+run_name: receptive-gnu-175
+run_uuid: 272f9354770e4114badc373dc070c676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470827888
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/f372364cbe6347d39b8130159ede69fb/artifacts
+end_time: 1687461433866
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: f372364cbe6347d39b8130159ede69fb
+run_name: adorable-hare-216
+run_uuid: f372364cbe6347d39b8130159ede69fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461433854
+status: 3
+tags: []
+user_id: smirnova

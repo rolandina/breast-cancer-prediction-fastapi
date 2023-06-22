@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024683/69363b8b636f484f8dc0fcd51d31ef29/artifacts
+end_time: 1687470840663
+entry_point_name: ''
+experiment_id: '950087791273024683'
+lifecycle_stage: active
+run_id: 69363b8b636f484f8dc0fcd51d31ef29
+run_name: dazzling-ape-59
+run_uuid: 69363b8b636f484f8dc0fcd51d31ef29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470840636
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/b8aa2aad40bb497fb1dbe4018cba805c/artifacts
+end_time: 1687470829361
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: b8aa2aad40bb497fb1dbe4018cba805c
+run_name: nebulous-doe-268
+run_uuid: b8aa2aad40bb497fb1dbe4018cba805c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470829330
+status: 3
+tags: []
+user_id: smirnova

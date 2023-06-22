@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/bab289ec101c4571bfb95c70bdeccfa7/artifacts
+end_time: 1687470886934
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: bab289ec101c4571bfb95c70bdeccfa7
+run_name: resilient-smelt-429
+run_uuid: bab289ec101c4571bfb95c70bdeccfa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886907
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/fcf78e7caaea40dc8a7a513565a8b424/artifacts
+deleted_time: 1687472358979
+end_time: 1687472165959
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: fcf78e7caaea40dc8a7a513565a8b424
+run_name: popular-penguin-28
+run_uuid: fcf78e7caaea40dc8a7a513565a8b424
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472165927
+status: 3
+tags: []
+user_id: smirnova

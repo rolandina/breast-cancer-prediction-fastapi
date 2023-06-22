@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/2376c46a113e4116b5dcc7c12e6b5643/artifacts
+end_time: 1687461434228
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: 2376c46a113e4116b5dcc7c12e6b5643
+run_name: zealous-shrew-477
+run_uuid: 2376c46a113e4116b5dcc7c12e6b5643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461434212
+status: 3
+tags: []
+user_id: smirnova

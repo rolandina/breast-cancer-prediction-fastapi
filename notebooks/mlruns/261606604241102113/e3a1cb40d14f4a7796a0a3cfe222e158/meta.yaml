@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/e3a1cb40d14f4a7796a0a3cfe222e158/artifacts
+deleted_time: 1687472328585
+end_time: 1687472166888
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: e3a1cb40d14f4a7796a0a3cfe222e158
+run_name: salty-robin-738
+run_uuid: e3a1cb40d14f4a7796a0a3cfe222e158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472166864
+status: 3
+tags: []
+user_id: smirnova

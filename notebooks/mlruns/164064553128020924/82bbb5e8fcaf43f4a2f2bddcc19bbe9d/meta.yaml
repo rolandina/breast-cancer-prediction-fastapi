@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/82bbb5e8fcaf43f4a2f2bddcc19bbe9d/artifacts
+deleted_time: 1687472479903
+end_time: 1687472238104
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: 82bbb5e8fcaf43f4a2f2bddcc19bbe9d
+run_name: defiant-ape-872
+run_uuid: 82bbb5e8fcaf43f4a2f2bddcc19bbe9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472238071
+status: 3
+tags: []
+user_id: smirnova

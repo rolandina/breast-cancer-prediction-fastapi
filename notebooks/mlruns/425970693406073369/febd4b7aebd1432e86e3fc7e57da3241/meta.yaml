@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/febd4b7aebd1432e86e3fc7e57da3241/artifacts
+end_time: 1687472186754
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: febd4b7aebd1432e86e3fc7e57da3241
+run_name: glamorous-yak-748
+run_uuid: febd4b7aebd1432e86e3fc7e57da3241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472186718
+status: 3
+tags: []
+user_id: smirnova

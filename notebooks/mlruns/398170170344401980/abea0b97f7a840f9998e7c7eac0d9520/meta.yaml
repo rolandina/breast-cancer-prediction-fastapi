@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/398170170344401980/abea0b97f7a840f9998e7c7eac0d9520/artifacts
+end_time: 1687461445485
+entry_point_name: ''
+experiment_id: '398170170344401980'
+lifecycle_stage: active
+run_id: abea0b97f7a840f9998e7c7eac0d9520
+run_name: melodic-flea-950
+run_uuid: abea0b97f7a840f9998e7c7eac0d9520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461445473
+status: 3
+tags: []
+user_id: smirnova

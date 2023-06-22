@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/327363371220229115/fdae66c7d60341149734adee10cb5e31/artifacts
+end_time: 1687461441164
+entry_point_name: ''
+experiment_id: '327363371220229115'
+lifecycle_stage: active
+run_id: fdae66c7d60341149734adee10cb5e31
+run_name: fortunate-fish-663
+run_uuid: fdae66c7d60341149734adee10cb5e31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461441150
+status: 3
+tags: []
+user_id: smirnova

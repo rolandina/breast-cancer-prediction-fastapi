@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/204504564663230393/3cdfb180e77042348645382d0c7557c1/artifacts
+end_time: 1687461461101
+entry_point_name: ''
+experiment_id: '204504564663230393'
+lifecycle_stage: active
+run_id: 3cdfb180e77042348645382d0c7557c1
+run_name: persistent-shark-181
+run_uuid: 3cdfb180e77042348645382d0c7557c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461461086
+status: 3
+tags: []
+user_id: smirnova

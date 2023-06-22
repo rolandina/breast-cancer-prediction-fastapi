@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/398170170344401980/ee21332397dd4c6996cdcb47c115c4ab/artifacts
+end_time: 1687461445424
+entry_point_name: ''
+experiment_id: '398170170344401980'
+lifecycle_stage: active
+run_id: ee21332397dd4c6996cdcb47c115c4ab
+run_name: hilarious-mink-121
+run_uuid: ee21332397dd4c6996cdcb47c115c4ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461445411
+status: 3
+tags: []
+user_id: smirnova

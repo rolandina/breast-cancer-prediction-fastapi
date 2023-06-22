@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/8c3ae3e45ea24103b7d205776f0364d0/artifacts
+deleted_time: 1687472462843
+end_time: 1687461470363
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: 8c3ae3e45ea24103b7d205776f0364d0
+run_name: charming-goose-70
+run_uuid: 8c3ae3e45ea24103b7d205776f0364d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461470345
+status: 3
+tags: []
+user_id: smirnova

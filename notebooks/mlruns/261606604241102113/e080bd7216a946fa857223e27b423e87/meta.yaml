@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/e080bd7216a946fa857223e27b423e87/artifacts
+deleted_time: 1687472359036
+end_time: 1687472165291
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: e080bd7216a946fa857223e27b423e87
+run_name: nimble-dog-562
+run_uuid: e080bd7216a946fa857223e27b423e87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472165225
+status: 3
+tags: []
+user_id: smirnova

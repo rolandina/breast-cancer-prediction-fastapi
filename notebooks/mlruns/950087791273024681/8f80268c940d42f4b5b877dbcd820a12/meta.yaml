@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/8f80268c940d42f4b5b877dbcd820a12/artifacts
+end_time: 1687470827821
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 8f80268c940d42f4b5b877dbcd820a12
+run_name: loud-lynx-469
+run_uuid: 8f80268c940d42f4b5b877dbcd820a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470827796
+status: 3
+tags: []
+user_id: smirnova

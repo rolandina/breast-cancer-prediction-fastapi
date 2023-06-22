@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024682/aa1054aed93d4b329f93174a24597227/artifacts
+end_time: 1687470835356
+entry_point_name: ''
+experiment_id: '950087791273024682'
+lifecycle_stage: active
+run_id: aa1054aed93d4b329f93174a24597227
+run_name: casual-foal-898
+run_uuid: aa1054aed93d4b329f93174a24597227
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470835329
+status: 3
+tags: []
+user_id: smirnova

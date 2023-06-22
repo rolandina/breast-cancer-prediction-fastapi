@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/50f6489c21f94f4eafee7c81acb1312f/artifacts
+end_time: 1687470828181
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 50f6489c21f94f4eafee7c81acb1312f
+run_name: intrigued-shark-757
+run_uuid: 50f6489c21f94f4eafee7c81acb1312f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470828121
+status: 3
+tags: []
+user_id: smirnova

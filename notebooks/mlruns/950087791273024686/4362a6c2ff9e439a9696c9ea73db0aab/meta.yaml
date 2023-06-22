@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/4362a6c2ff9e439a9696c9ea73db0aab/artifacts
+end_time: 1687470887457
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 4362a6c2ff9e439a9696c9ea73db0aab
+run_name: adventurous-wasp-449
+run_uuid: 4362a6c2ff9e439a9696c9ea73db0aab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470887429
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/c8bcf590c16246d5bbeb6e6e7cbe7878/artifacts
+end_time: 1687472185475
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: c8bcf590c16246d5bbeb6e6e7cbe7878
+run_name: magnificent-cow-753
+run_uuid: c8bcf590c16246d5bbeb6e6e7cbe7878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472185439
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/9b344966cef749fdb9d31bd3fa91cd7c/artifacts
+deleted_time: 1687472462949
+end_time: 1687461469796
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: 9b344966cef749fdb9d31bd3fa91cd7c
+run_name: polite-snake-222
+run_uuid: 9b344966cef749fdb9d31bd3fa91cd7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461469779
+status: 3
+tags: []
+user_id: smirnova

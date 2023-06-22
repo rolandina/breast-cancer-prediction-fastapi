@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/d40a3fd346db4e9296767e5f53abf414/artifacts
+end_time: 1687470827850
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: d40a3fd346db4e9296767e5f53abf414
+run_name: unique-shad-848
+run_uuid: d40a3fd346db4e9296767e5f53abf414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470827826
+status: 3
+tags: []
+user_id: smirnova

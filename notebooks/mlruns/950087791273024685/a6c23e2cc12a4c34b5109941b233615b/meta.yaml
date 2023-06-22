@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024685/a6c23e2cc12a4c34b5109941b233615b/artifacts
+end_time: 1687470876388
+entry_point_name: ''
+experiment_id: '950087791273024685'
+lifecycle_stage: active
+run_id: a6c23e2cc12a4c34b5109941b233615b
+run_name: enthused-chimp-733
+run_uuid: a6c23e2cc12a4c34b5109941b233615b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470876357
+status: 3
+tags: []
+user_id: smirnova

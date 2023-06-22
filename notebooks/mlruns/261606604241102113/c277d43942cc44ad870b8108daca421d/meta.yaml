@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/c277d43942cc44ad870b8108daca421d/artifacts
+deleted_time: 1687472359009
+end_time: 1687472165596
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: c277d43942cc44ad870b8108daca421d
+run_name: redolent-ant-867
+run_uuid: c277d43942cc44ad870b8108daca421d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472165573
+status: 3
+tags: []
+user_id: smirnova

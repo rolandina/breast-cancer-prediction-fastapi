@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024682/8c57287caa3746638d8450d632113b8d/artifacts
+end_time: 1687470835868
+entry_point_name: ''
+experiment_id: '950087791273024682'
+lifecycle_stage: active
+run_id: 8c57287caa3746638d8450d632113b8d
+run_name: gentle-perch-333
+run_uuid: 8c57287caa3746638d8450d632113b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470835836
+status: 3
+tags: []
+user_id: smirnova

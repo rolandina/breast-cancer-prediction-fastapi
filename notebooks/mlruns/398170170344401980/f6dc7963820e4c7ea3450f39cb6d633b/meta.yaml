@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/398170170344401980/f6dc7963820e4c7ea3450f39cb6d633b/artifacts
+end_time: 1687472199253
+entry_point_name: ''
+experiment_id: '398170170344401980'
+lifecycle_stage: active
+run_id: f6dc7963820e4c7ea3450f39cb6d633b
+run_name: unleashed-moth-123
+run_uuid: f6dc7963820e4c7ea3450f39cb6d633b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472199225
+status: 3
+tags: []
+user_id: smirnova

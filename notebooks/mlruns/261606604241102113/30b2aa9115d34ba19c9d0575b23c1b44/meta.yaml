@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/30b2aa9115d34ba19c9d0575b23c1b44/artifacts
+deleted_time: 1687472358976
+end_time: 1687472165996
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 30b2aa9115d34ba19c9d0575b23c1b44
+run_name: marvelous-turtle-52
+run_uuid: 30b2aa9115d34ba19c9d0575b23c1b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472165965
+status: 3
+tags: []
+user_id: smirnova

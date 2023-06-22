@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/398170170344401980/f1e49e47b9614d8f9fc38641ee9f6225/artifacts
+end_time: 1687461445544
+entry_point_name: ''
+experiment_id: '398170170344401980'
+lifecycle_stage: active
+run_id: f1e49e47b9614d8f9fc38641ee9f6225
+run_name: mysterious-squid-764
+run_uuid: f1e49e47b9614d8f9fc38641ee9f6225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461445529
+status: 3
+tags: []
+user_id: smirnova

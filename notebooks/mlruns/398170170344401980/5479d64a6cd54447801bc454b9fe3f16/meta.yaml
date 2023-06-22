@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/398170170344401980/5479d64a6cd54447801bc454b9fe3f16/artifacts
+end_time: 1687461445512
+entry_point_name: ''
+experiment_id: '398170170344401980'
+lifecycle_stage: active
+run_id: 5479d64a6cd54447801bc454b9fe3f16
+run_name: peaceful-mare-753
+run_uuid: 5479d64a6cd54447801bc454b9fe3f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461445500
+status: 3
+tags: []
+user_id: smirnova

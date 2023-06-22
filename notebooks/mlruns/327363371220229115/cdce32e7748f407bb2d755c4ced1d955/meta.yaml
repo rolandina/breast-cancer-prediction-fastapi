@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/327363371220229115/cdce32e7748f407bb2d755c4ced1d955/artifacts
+end_time: 1687472194391
+entry_point_name: ''
+experiment_id: '327363371220229115'
+lifecycle_stage: active
+run_id: cdce32e7748f407bb2d755c4ced1d955
+run_name: blushing-ram-554
+run_uuid: cdce32e7748f407bb2d755c4ced1d955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472194354
+status: 3
+tags: []
+user_id: smirnova

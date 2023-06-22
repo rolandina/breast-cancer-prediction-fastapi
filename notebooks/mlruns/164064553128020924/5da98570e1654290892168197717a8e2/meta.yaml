@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/164064553128020924/5da98570e1654290892168197717a8e2/artifacts
+deleted_time: 1687472479950
+end_time: 1687472237690
+entry_point_name: ''
+experiment_id: '164064553128020924'
+lifecycle_stage: deleted
+run_id: 5da98570e1654290892168197717a8e2
+run_name: tasteful-colt-31
+run_uuid: 5da98570e1654290892168197717a8e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472237661
+status: 3
+tags: []
+user_id: smirnova

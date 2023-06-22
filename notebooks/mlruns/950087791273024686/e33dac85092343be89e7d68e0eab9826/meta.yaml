@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/e33dac85092343be89e7d68e0eab9826/artifacts
+end_time: 1687470887058
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: e33dac85092343be89e7d68e0eab9826
+run_name: rambunctious-kit-303
+run_uuid: e33dac85092343be89e7d68e0eab9826
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470887027
+status: 3
+tags: []
+user_id: smirnova

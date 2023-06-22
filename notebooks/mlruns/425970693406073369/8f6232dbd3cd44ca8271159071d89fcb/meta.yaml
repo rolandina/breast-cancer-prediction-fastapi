@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/425970693406073369/8f6232dbd3cd44ca8271159071d89fcb/artifacts
+end_time: 1687461434329
+entry_point_name: ''
+experiment_id: '425970693406073369'
+lifecycle_stage: active
+run_id: 8f6232dbd3cd44ca8271159071d89fcb
+run_name: debonair-panda-674
+run_uuid: 8f6232dbd3cd44ca8271159071d89fcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461434315
+status: 3
+tags: []
+user_id: smirnova

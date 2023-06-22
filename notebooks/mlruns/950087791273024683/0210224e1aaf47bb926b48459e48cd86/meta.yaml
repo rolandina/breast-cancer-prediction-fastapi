@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024683/0210224e1aaf47bb926b48459e48cd86/artifacts
+end_time: 1687470840735
+entry_point_name: ''
+experiment_id: '950087791273024683'
+lifecycle_stage: active
+run_id: 0210224e1aaf47bb926b48459e48cd86
+run_name: receptive-bass-982
+run_uuid: 0210224e1aaf47bb926b48459e48cd86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470840702
+status: 3
+tags: []
+user_id: smirnova

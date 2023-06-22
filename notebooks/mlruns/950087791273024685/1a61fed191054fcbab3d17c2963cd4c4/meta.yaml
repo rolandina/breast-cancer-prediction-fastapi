@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024685/1a61fed191054fcbab3d17c2963cd4c4/artifacts
+end_time: 1687470876462
+entry_point_name: ''
+experiment_id: '950087791273024685'
+lifecycle_stage: active
+run_id: 1a61fed191054fcbab3d17c2963cd4c4
+run_name: marvelous-snipe-963
+run_uuid: 1a61fed191054fcbab3d17c2963cd4c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470876430
+status: 3
+tags: []
+user_id: smirnova

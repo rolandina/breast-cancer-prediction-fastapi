@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024682/856d5c74eb1d4b06922d04ec8acee118/artifacts
+end_time: 1687470837794
+entry_point_name: ''
+experiment_id: '950087791273024682'
+lifecycle_stage: active
+run_id: 856d5c74eb1d4b06922d04ec8acee118
+run_name: gifted-penguin-339
+run_uuid: 856d5c74eb1d4b06922d04ec8acee118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470831041
+status: 3
+tags: []
+user_id: smirnova

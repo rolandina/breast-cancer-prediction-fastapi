@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/0e39bc3079a74d78b1cd78c40dc373bc/artifacts
+end_time: 1687470887424
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 0e39bc3079a74d78b1cd78c40dc373bc
+run_name: sneaky-mule-753
+run_uuid: 0e39bc3079a74d78b1cd78c40dc373bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470887395
+status: 3
+tags: []
+user_id: smirnova

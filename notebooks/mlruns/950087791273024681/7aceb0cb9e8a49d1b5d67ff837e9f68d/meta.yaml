@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/7aceb0cb9e8a49d1b5d67ff837e9f68d/artifacts
+end_time: 1687470828242
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 7aceb0cb9e8a49d1b5d67ff837e9f68d
+run_name: stylish-yak-561
+run_uuid: 7aceb0cb9e8a49d1b5d67ff837e9f68d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470828217
+status: 3
+tags: []
+user_id: smirnova

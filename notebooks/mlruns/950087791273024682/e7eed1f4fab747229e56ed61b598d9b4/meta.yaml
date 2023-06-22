@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024682/e7eed1f4fab747229e56ed61b598d9b4/artifacts
+end_time: 1687470835830
+entry_point_name: ''
+experiment_id: '950087791273024682'
+lifecycle_stage: active
+run_id: e7eed1f4fab747229e56ed61b598d9b4
+run_name: victorious-wasp-844
+run_uuid: e7eed1f4fab747229e56ed61b598d9b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470835798
+status: 3
+tags: []
+user_id: smirnova

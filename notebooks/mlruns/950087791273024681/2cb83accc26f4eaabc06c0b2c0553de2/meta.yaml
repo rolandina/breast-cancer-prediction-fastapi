@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/2cb83accc26f4eaabc06c0b2c0553de2/artifacts
+end_time: 1687470827942
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: 2cb83accc26f4eaabc06c0b2c0553de2
+run_name: adaptable-rook-19
+run_uuid: 2cb83accc26f4eaabc06c0b2c0553de2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470827917
+status: 3
+tags: []
+user_id: smirnova

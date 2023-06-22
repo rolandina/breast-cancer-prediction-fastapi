@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/261606604241102113/2ca51775cd104014942c1a5d32c8573b/artifacts
+deleted_time: 1687472359033
+end_time: 1687472165357
+entry_point_name: ''
+experiment_id: '261606604241102113'
+lifecycle_stage: deleted
+run_id: 2ca51775cd104014942c1a5d32c8573b
+run_name: intrigued-midge-297
+run_uuid: 2ca51775cd104014942c1a5d32c8573b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472165302
+status: 3
+tags: []
+user_id: smirnova

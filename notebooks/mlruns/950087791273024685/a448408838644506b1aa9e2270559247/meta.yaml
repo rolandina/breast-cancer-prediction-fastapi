@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024685/a448408838644506b1aa9e2270559247/artifacts
+end_time: 1687470876424
+entry_point_name: ''
+experiment_id: '950087791273024685'
+lifecycle_stage: active
+run_id: a448408838644506b1aa9e2270559247
+run_name: unleashed-stork-105
+run_uuid: a448408838644506b1aa9e2270559247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470876394
+status: 3
+tags: []
+user_id: smirnova

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/204504564663230393/dd0f4e9b39634d17b5328ccaa2919f1f/artifacts
+deleted_time: 1687472045093
+end_time: 1687461462588
+entry_point_name: ''
+experiment_id: '204504564663230393'
+lifecycle_stage: deleted
+run_id: dd0f4e9b39634d17b5328ccaa2919f1f
+run_name: luxuriant-yak-700
+run_uuid: dd0f4e9b39634d17b5328ccaa2919f1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687461460885
+status: 3
+tags: []
+user_id: smirnova

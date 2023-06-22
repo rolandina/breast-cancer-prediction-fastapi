@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smirnova/study/SIMPLON/projects/breast-cancer-fastapi/notebooks/mlruns/204504564663230393/1a790d743e2643a0b3f42ce1e966fa8f/artifacts
+end_time: 1687472226652
+entry_point_name: ''
+experiment_id: '204504564663230393'
+lifecycle_stage: active
+run_id: 1a790d743e2643a0b3f42ce1e966fa8f
+run_name: painted-turtle-348
+run_uuid: 1a790d743e2643a0b3f42ce1e966fa8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687472226620
+status: 3
+tags: []
+user_id: smirnova

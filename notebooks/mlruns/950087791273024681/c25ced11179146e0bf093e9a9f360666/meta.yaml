@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024681/c25ced11179146e0bf093e9a9f360666/artifacts
+end_time: 1687470827622
+entry_point_name: ''
+experiment_id: '950087791273024681'
+lifecycle_stage: active
+run_id: c25ced11179146e0bf093e9a9f360666
+run_name: serious-snipe-872
+run_uuid: c25ced11179146e0bf093e9a9f360666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470827593
+status: 3
+tags: []
+user_id: smirnova

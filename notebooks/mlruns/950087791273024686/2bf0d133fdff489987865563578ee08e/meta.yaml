@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/950087791273024686/2bf0d133fdff489987865563578ee08e/artifacts
+end_time: 1687470886717
+entry_point_name: ''
+experiment_id: '950087791273024686'
+lifecycle_stage: active
+run_id: 2bf0d133fdff489987865563578ee08e
+run_name: thundering-stork-687
+run_uuid: 2bf0d133fdff489987865563578ee08e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687470886689
+status: 3
+tags: []
+user_id: smirnova
