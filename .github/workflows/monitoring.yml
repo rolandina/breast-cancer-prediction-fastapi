@@ -11,11 +11,6 @@ jobs:
       - name: Run a one-line script
         run: echo "This is a manual trigger for GitHub Actions"
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
       - name: Check Heroku App Status
         id: check_status
         run: |
