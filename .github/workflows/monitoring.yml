@@ -2,7 +2,7 @@ name: Check Heroku App Status
 
 on:
   schedule:
-    - cron: "*/30 * * * *" # This checks every 30 minutes, change as needed
+    - cron: "*/5 * * * *" # This checks every 5 minutes, change as needed
 
 jobs:
   build:
