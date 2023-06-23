@@ -2,13 +2,14 @@ name: Check Heroku App Status
 
 on:
   schedule:
-    - cron: "*/5 * * * *" # This checks every 5 minutes, change as needed
-
+    - cron: "*/1 * * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
       - name: Check Heroku App Status
         id: check_status
         run: |
@@ -23,7 +24,7 @@ jobs:
 
       - name: Telegram Notify
         if: steps.check_status.outputs.STATUS == 'UP'
-        uses: appleboy/telegram-action@v1.6.2
+        uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
