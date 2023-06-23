@@ -1,15 +1,14 @@
 name: Check Heroku App Status
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: "*/1 * * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v2
-      - name: Run a one-line script
-        run: echo "This is a manual trigger for GitHub Actions"
 
       - name: Check Heroku App Status
         id: check_status
