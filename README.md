@@ -1,6 +1,6 @@
 # Breast Cancer Prediction Model API
 
-This is a FastAPI application for a Breast Cancer Prediction Model. The API can be used to predict the survival of a patient with breast cancer based on several parameters such as age, race, marital status, estrogen status, progesterone status, tumor size, and more.
+This is a FastAPI application for a Breast Cancer Prediction Model. The API can be used to predict the survival of a patient with breast cancer based on several parameters such as age, race, marital status, estrogen status, progesterone status, tumor size, and more...
 
 ![](https://github.com/rolandina/breast-cancer-prediction-fastapi/blob/api/bcp-fast-api.png)
 
