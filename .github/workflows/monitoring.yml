@@ -2,7 +2,7 @@ name: Check Heroku App Status
 
 on:
   schedule:
-    - cron: "*/1 * * * *"
+    - cron: "*/30 * * * *"
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,7 +23,7 @@ jobs:
           fi
 
       - name: Telegram Notify
-        if: steps.check_status.outputs.STATUS == 'UP'
+        if: steps.check_status.outputs.STATUS == 'DOWN'
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_TO }}
